@@ -6,7 +6,7 @@
 Apart from coding, I also maintain a blog - you can find my articles on my website at [It works for me](https://www.blog.danishi.net/).
 
 ## &#x1f396; Qualification
-* [credly](https://www.credly.com/users/shunji-nishida.edaa312b/badges?sort=-state_updated_at&page=1)
+* [Credly](https://www.credly.com/users/shunji-nishida.edaa312b/badges?sort=-state_updated_at&page=1)
 * [Credential](https://www.credential.net/profile/shunjinishida518395/wallet)
 
 ## GitHub Stats Card
