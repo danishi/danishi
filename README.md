@@ -10,5 +10,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 * [Credential](https://www.credential.net/profile/shunjinishida518395/wallet)
 
 ## GitHub Stats Card
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishi&show_icons=true&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
+I'm looking for [GitHub sponsors](https://github.com/sponsors/danishi).
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishi&hide=html)
+![danishi's github stats](https://github-readme-stats.vercel.app/api?username=danishi&show_icons=true&count_private=true&line_height=40)
+
