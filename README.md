@@ -2,6 +2,8 @@
 
 🔭 I’m currently working on Japan.
 
+[![Github](https://img.shields.io/github/followers/danishi?label=Follow&style=social)](https://github.com/danishi)
+
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at [It works for me](https://www.blog.danishi.net/).
 
