@@ -2,7 +2,11 @@
 
 🔭 I’m currently working on Japan.
 
-[![Github](https://img.shields.io/github/followers/danishi?label=Follow&style=social)](https://github.com/danishi)
+[![Github followers](https://img.shields.io/github/stars/danishi?label=Star&style=social)](https://github.com/danishi)
+[![Github followers](https://img.shields.io/github/followers/danishi?label=Follow&style=social)](https://github.com/danishi)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/danishi/posts.svg)](http://qiita.com/danishi)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/danishi/contributions.svg)](http://qiita.com/danishi)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/danishi/followers.svg)](http://qiita.com/danishi)
 
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at [It works for me](https://www.blog.danishi.net/).
