@@ -9,7 +9,8 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/danishi/contributions.svg)](http://qiita.com/danishi)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/danishi/followers.svg)](http://qiita.com/danishi)
 
- 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
+
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at [It works for me](https://www.blog.danishi.net/).
 
@@ -39,4 +40,3 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/danishi).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishi&hide=html)
 ![danishi's github stats](https://github-readme-stats.vercel.app/api?username=danishi&show_icons=true&count_private=true&line_height=40)
-
