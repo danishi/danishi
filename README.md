@@ -49,6 +49,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 * [Open Badge](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/TS83WnQzbzRpZXVsUzlnM1ZxNUFMQT09)
 * [2022 Qiita User Contribution Ranking 50th](https://qiita.com/Qiita/items/75a34af032d898a86679)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=danishi)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 👨‍💻 GitHub Stats Card
 I'm looking for [GitHub sponsors](https://github.com/sponsors/danishi).
 
