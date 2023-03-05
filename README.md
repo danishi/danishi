@@ -5,9 +5,9 @@
 ![counter to GitHub profile](https://komarev.com/ghpvc/?username=danishi&color=green)
 [![Github followers](https://img.shields.io/github/stars/danishi?label=Star&style=social)](https://github.com/danishi)
 [![Github followers](https://img.shields.io/github/followers/danishi?label=Follow&style=social)](https://github.com/danishi)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/danishi/posts.svg)](http://qiita.com/danishi)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/danishi/contributions.svg)](http://qiita.com/danishi)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/danishi/followers.svg)](http://qiita.com/danishi)
+[![Qiita Contributions](https://badgen.org/img/qiita/danishi/contributions?style=plastic)](https://qiita.com/danishi)
+[![Qiita Followers](https://badgen.org/img/qiita/danishi/followers?style=plastic)](https://qiita.com/danishi)
+[![Qiita Articles](https://badgen.org/img/qiita/danishi/articles?style=plastic)](https://qiita.com/danishi)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
 
