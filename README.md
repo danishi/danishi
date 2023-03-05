@@ -11,6 +11,8 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
 
+I'm looking for [GitHub sponsors](https://github.com/sponsors/danishi)❤
+
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at [It works for me](https://www.blog.danishi.net/).
 
@@ -52,7 +54,5 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![trophy](https://github-profile-trophy.vercel.app/?username=danishi)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 👨‍💻 GitHub Stats Card
-I'm looking for [GitHub sponsors](https://github.com/sponsors/danishi).
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishi&hide=html)
 ![danishi's github stats](https://github-readme-stats.vercel.app/api?username=danishi&show_icons=true&count_private=true&line_height=40)
