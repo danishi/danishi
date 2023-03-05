@@ -43,9 +43,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-## &#x1f396; Qualification
+## &#x1f396; Qualification & Commendation
 * [Credly](https://www.credly.com/users/shunji-nishida.edaa312b/badges?sort=-state_updated_at&page=1)
 * [Credential](https://www.credential.net/profile/shunjinishida518395/wallet)
+* [2022 Qiita User Contribution Ranking 50th](https://qiita.com/Qiita/items/75a34af032d898a86679)
 
 ## 👨‍💻 GitHub Stats Card
 I'm looking for [GitHub sponsors](https://github.com/sponsors/danishi).
