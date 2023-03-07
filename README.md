@@ -5,9 +5,17 @@
 ![counter to GitHub profile](https://komarev.com/ghpvc/?username=danishi&color=green)
 [![Github followers](https://img.shields.io/github/stars/danishi?label=Star&style=social)](https://github.com/danishi)
 [![Github followers](https://img.shields.io/github/followers/danishi?label=Follow&style=social)](https://github.com/danishi)
+  
 [![Qiita Contributions](https://badgen.org/img/qiita/danishi/contributions?style=plastic)](https://qiita.com/danishi)
 [![Qiita Followers](https://badgen.org/img/qiita/danishi/followers?style=plastic)](https://qiita.com/danishi)
 [![Qiita Articles](https://badgen.org/img/qiita/danishi/articles?style=plastic)](https://qiita.com/danishi)
+[![Zenn Likes](https://badgen.org/img/zenn/danishi/likes?style=plastic)](https://zenn.dev/danishi)
+[![Zenn Followers](https://badgen.org/img/zenn/danishi/followers?style=plastic)](https://zenn.dev/danishi)
+[![Zenn Articles](https://badgen.org/img/zenn/danishi/articles?style=plastic)](https://zenn.dev/danishi)
+[![Zenn Books](https://badgen.org/img/zenn/danishi/books?style=plastic)](https://zenn.dev/danishi?tab=books)
+[![Zenn Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic)](https://zenn.dev/danishi?tab=scraps)
+[![AtCoder Rating](https://badgen.org/img/atcoder/danishi/rating/algorithm?style=plastic)](https://atcoder.jp/users/danishi?contestType=algo)
+[![AtCoder Rating(Heuristic)](https://badgen.org/img/atcoder/danishi/rating/heuristic?style=plastic)](https://atcoder.jp/users/danishi?contestType=heuristic)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
 
