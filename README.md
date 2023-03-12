@@ -15,7 +15,9 @@
 [![Zenn Books](https://badgen.org/img/zenn/danishi/books?style=plastic)](https://zenn.dev/danishi?tab=books)
 [![Zenn Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic)](https://zenn.dev/danishi?tab=scraps)
 [![AtCoder Rating](https://badgen.org/img/atcoder/danishi/rating/algorithm?style=plastic)](https://atcoder.jp/users/danishi?contestType=algo)
+<!--
 [![AtCoder Rating(Heuristic)](https://badgen.org/img/atcoder/danishi/rating/heuristic?style=plastic)](https://atcoder.jp/users/danishi?contestType=heuristic)
+-->
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
 
