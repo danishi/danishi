@@ -61,6 +61,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 * [Credly](https://www.credly.com/users/shunji-nishida.edaa312b/badges?sort=-state_updated_at&page=1)
 * [Credential](https://www.credential.net/profile/shunjinishida518395/wallet)
 * [Open Badge](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/TS83WnQzbzRpZXVsUzlnM1ZxNUFMQT09)
+* [2023 Japan AWS All Certifications Engineers](https://aws.amazon.com/jp/blogs/psa/2023-japan-aws-all-certifications-engineers/)
 * [2022 Qiita User Contribution Ranking 50th](https://qiita.com/Qiita/items/75a34af032d898a86679)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=danishi)](https://github.com/ryo-ma/github-profile-trophy)
