@@ -6,9 +6,12 @@
 [![Github followers](https://img.shields.io/github/stars/danishi?label=Star&style=social)](https://github.com/danishi)
 [![Github followers](https://img.shields.io/github/followers/danishi?label=Follow&style=social)](https://github.com/danishi)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishi&hide=html)
+![danishi's github stats](https://github-readme-stats.vercel.app/api?username=danishi&show_icons=true&count_private=true&line_height=40)
 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/danishi)❤
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
 
 ## &#x270d; Blog & Writing & Slide
 Apart from coding, I also maintain a blog - you can find my articles on my website at [It works for me](https://www.blog.danishi.net/).
@@ -63,7 +66,3 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [![AtCoder Rating](https://badgen.org/img/atcoder/danishi/rating/algorithm?style=plastic)](https://atcoder.jp/users/danishi?contestType=algo)
 [![AtCoder Rating(Heuristic)](https://badgen.org/img/atcoder/danishi/rating/heuristic?style=plastic)](https://atcoder.jp/users/danishi?contestType=heuristic)
-
-## 👨‍💻 GitHub Stats Card
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishi&hide=html)
-![danishi's github stats](https://github-readme-stats.vercel.app/api?username=danishi&show_icons=true&count_private=true&line_height=40)
