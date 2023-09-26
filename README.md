@@ -22,6 +22,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![Zenn Books](https://badgen.org/img/zenn/danishi/books?style=plastic)](https://zenn.dev/danishi?tab=books)
 [![Zenn Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic)](https://zenn.dev/danishi?tab=scraps)  
 
+* [Speaker Deck](https://speakerdeck.com/danishi)
 * [Docswell](https://www.docswell.com/user/danishi)
 
 ## 🛠 Languages & Tools
