@@ -21,9 +21,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![Zenn Articles](https://badgen.org/img/zenn/danishi/articles?style=plastic)](https://zenn.dev/danishi)
 [![Zenn Books](https://badgen.org/img/zenn/danishi/books?style=plastic)](https://zenn.dev/danishi?tab=books)
 [![Zenn Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic)](https://zenn.dev/danishi?tab=scraps)  
-
-* [Speaker Deck](https://speakerdeck.com/danishi)
-* [Docswell](https://www.docswell.com/user/danishi)
+[![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-0?style=flat&logo=speaker-deck&color=009287&logoColor=white)](https://speakerdeck.com/danishi)
 
 ## 🛠 Languages & Tools
 <p align="left">
