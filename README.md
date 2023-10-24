@@ -27,6 +27,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![note](https://img.shields.io/badge/note-danishi-greeen)](https://note.com/_danishi)
 [![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-0?style=flat&logo=speaker-deck&color=009287&logoColor=white)](https://speakerdeck.com/danishi)
 
+### Contributions to companies
+- [iret.media](https://iret.media/author/nishida)
+
 ## 🛠 Languages & Tools
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
