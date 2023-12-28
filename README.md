@@ -27,7 +27,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![note](https://img.shields.io/badge/note-danishi-greeen)](https://note.com/_danishi)
 [![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-0?style=flat&logo=speaker-deck&color=009287&logoColor=white)](https://speakerdeck.com/danishi)
   
-[![user:23168530's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/23168530?theme=default)](https://github.com/johannchopin/stackoverflow-readme-profile)
+[![user:23168530's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/23168530?theme=default)](https://stackoverflow.com/users/23168530/danishi)
 
 ### Contributions to companies
 - [iret.media](https://iret.media/author/nishida)
