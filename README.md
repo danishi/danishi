@@ -71,3 +71,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [![AtCoder Rating](https://badgen.org/img/atcoder/danishi/rating/algorithm?style=plastic)](https://atcoder.jp/users/danishi?contestType=algo)
 [![AtCoder Rating(Heuristic)](https://badgen.org/img/atcoder/danishi/rating/heuristic?style=plastic)](https://atcoder.jp/users/danishi?contestType=heuristic)
+
+## Special others
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-danishi-yellow)](https://huggingface.co/danishi411)
