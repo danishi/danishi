@@ -31,6 +31,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Contributions to companies
 - [iret.media](https://iret.media/author/nishida)
+- [Google Cloud Innovators](https://g.dev/danishi)
 
 ## 🛠 Languages & Tools
 <p align="left">
