@@ -13,7 +13,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/danishi)❤
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
 
-## &#x270d; Blog & Writing & Slide
+## &#x270d; Blog, Writing & Deck
 Apart from coding, I also maintain a blog - you can find my articles on my website at [It works for me](https://www.blog.danishi.net/).
 
 [![Qiita Contributions](https://badgen.org/img/qiita/danishi/contributions?style=plastic)](https://qiita.com/danishi)
