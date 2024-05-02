@@ -26,8 +26,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![Zenn Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic)](https://zenn.dev/danishi?tab=scraps)  
 [![note](https://img.shields.io/badge/note-danishi-greeen)](https://note.com/_danishi)
 [![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-0?style=flat&logo=speaker-deck&color=009287&logoColor=white)](https://speakerdeck.com/danishi)
-  
-[![user:23168530's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/23168530?theme=default)](https://stackoverflow.com/users/23168530/danishi)
 
 ### Contributions to companies
 - [iret.media](https://iret.media/author/nishida)
@@ -61,6 +59,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
+## 🎁 My products
+* [PyPI](https://pypi.org/user/danishi/)
+* [npm](https://www.npmjs.com/~danishi)
+* [Packagist](https://packagist.org/users/danishi/packages/)
+
 ## &#x1f396; Qualification & Commendation
 * [Credly](https://www.credly.com/users/shunji-nishida.edaa312b/badges?sort=-state_updated_at&page=1)
 * [Credential](https://www.credential.net/profile/shunjinishida518395/wallet)
@@ -73,5 +76,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![AtCoder Rating](https://badgen.org/img/atcoder/danishi/rating/algorithm?style=plastic)](https://atcoder.jp/users/danishi?contestType=algo)
 [![AtCoder Rating(Heuristic)](https://badgen.org/img/atcoder/danishi/rating/heuristic?style=plastic)](https://atcoder.jp/users/danishi?contestType=heuristic)
 
-## Special others
+## ✨ Special others
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-danishi-yellow)](https://huggingface.co/danishi411)
+[![user:23168530's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/23168530?theme=default)](https://stackoverflow.com/users/23168530/danishi)
