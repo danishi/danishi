@@ -26,6 +26,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![Zenn Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic)](https://zenn.dev/danishi?tab=scraps)  
 [![note](https://img.shields.io/badge/note-danishi-greeen)](https://note.com/_danishi)
 [![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-0?style=flat&logo=speaker-deck&color=009287&logoColor=white)](https://speakerdeck.com/danishi)
+[![Dev To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/danishi)
 
 ### Contributions to companies
 - [iret.media](https://iret.media/author/nishida)
