@@ -100,6 +100,15 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![Professional Cloud Network Engineer](https://images.credly.com/size/110x110/images/08a802bf-f2fa-44fb-8110-92acf6195738/image.png)](https://www.credly.com/badges/e89672b5-4380-40bd-9366-57b9d800b99c/public_url)
 [![Professional Google Workspace Administrator](https://images.credly.com/size/110x110/images/8848cf4b-31e8-4bf8-b76f-f831f4db433b/image.png)](https://www.credly.com/badges/a7bf85ea-fb18-4f85-8eed-680b4a00c2f0/public_url)
 
+[![Oracle Certified Java Programmer, Silver SE 7](https://images.credly.com/size/110x110/images/ce8187a0-700e-4757-9d4e-dcb3f2f88f56/Japan_Silver_Java_SE_7_Programmer_Badge__3_.png)](https://www.credly.com/badges/23481bf4-c869-4013-a66c-ccdf2a322457/public_url)
+[<img height="110" width="110" src="https://images.credly.com/images/b5f4764e-10b5-452d-becd-900a59c0986b/Japan_Gold_Java_SE_7_Programmer_Badge__1_.png" alt="Oracle Certified Java Programmer, Gold SE 7"/>](https://www.credly.com/badges/d2294941-0851-45c1-bb5e-7e926ab28434/public_url)
+[<img height="110" width="110" src="https://images.credly.com/images/26b2b8e1-fd0e-4437-942a-5230687425e8/Japan_Master_Bronze_Oracle_Database_12c_Badge__1_.png" alt="ORACLE MASTER Bronze Oracle Database 12c"/>](https://www.credly.com/badges/51f318fe-f00a-41d4-91e7-39cb89f4e525/public_url)
+[<img height="110" width="110" src="https://images.credly.com/images/92367361-e44a-43e1-9743-2ca7d68c690d/Japan_Master_Silver_Oracle_DB_12c_Badge__1_.png" alt="ORACLE MASTER Silver Oracle Database 12c"/>](https://www.credly.com/badges/03be280d-3f57-4866-a848-2d05a061d6fe/public_url)
+
+[<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/9426f11b-054a-4047-bbd1-4c2aaf137bd2" alt="JDLA Generative AI TEST 2023 #1"/>](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/VHNLcEwrVGJwRWg4R2YxZFZiUkU2UT09)
+[<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/4162276c-2a59-466a-9172-e23c6dcecae1" alt="JDLA Deep Learning for GENERAL 2021 #1"/>](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dllYNUJSVHp4aHgxRnpMV2ljM1MzUT09)
+[<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/b831f309-ca36-441f-97e1-87bbff37d277" alt="VBAエキスパート Standard Crown"/>](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/R3MreS9seHFiK2cyaGpWZHNGWUFRUT09)
+
 * [Credly](https://www.credly.com/users/shunji-nishida.edaa312b/badges?sort=-state_updated_at&page=1)
 * [Credential](https://www.credential.net/profile/shunjinishida518395/wallet)
 * [Open Badge](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/TS83WnQzbzRpZXVsUzlnM1ZxNUFMQT09), [Second account](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/WktCZUNiY0xrSXY2NWRTWmxuZ2FZdz09)
