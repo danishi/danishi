@@ -14,7 +14,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/danishi)❤
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
 
-## &#x270d; Blog, Writing & Deck
+## 📝 Blog, Writing & Deck
 Apart from coding, I also maintain a blog - you can find my articles on my website at [It works for me](https://www.blog.danishi.net/).
 
 [![Qiita Contributions](https://badgen.org/img/qiita/danishi/contributions?style=plastic)](https://qiita.com/danishi)
@@ -29,7 +29,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-0?style=flat&logo=speaker-deck&color=009287&logoColor=white)](https://speakerdeck.com/danishi)
 [![Dev To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/danishi)
 
-### Contributions to companies
+### 🤝 Contributions to companies
 - [iret.media](https://iret.media/author/nishida)
 - [Google Cloud Innovators](https://g.dev/danishi)
 
