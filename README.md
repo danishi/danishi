@@ -32,6 +32,7 @@ This is my blog [It works for me](https://www.blog.danishi.net/).
 ### 🤝 Contributions to companies
 - [iret.media](https://iret.media/author/nishida)
 - [Google Cloud Innovators](https://g.dev/danishi)
+- [Google Cloud Skills Boost](https://partner.cloudskillsboost.google/public_profiles/f4473802-cc01-4b05-a7f1-28d8c02aa83b)
 
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,c,css,docker,dynamodb,eclipse,fastapi,firebase,flask,gcp,git,github,githubactions,gmail,html,java,js,jquery,laravel,linux,md,mysql,nodejs,nuxtjs,php,postman,py,raspberrypi,sass,sqlite,ubuntu,vim,vscode,vue,vuetify,windows,wordpress)](https://skillicons.dev)
