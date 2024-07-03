@@ -49,7 +49,7 @@ This is my blog [It works for me](https://www.blog.danishi.net/).
 
 ## &#x1f396; Certifications
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/4414b441-fc3e-4f1c-a02d-5c9e9811a433/public_url)
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/e6a26627-e6d5-403a-baff-e68948f92325/public_url)
+[<img height="110" width="110" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate"/>](https://www.credly.com/badges/e6a26627-e6d5-403a-baff-e68948f92325/public_url)
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/9e4185d5-5a08-4276-81d4-8c6b0f4015ab/public_url)
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/76c2735b-2a7e-48d7-a56d-30b61b62d452/public_url)
 [![AWS Certified Data Engineer – Associate](https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png)](https://www.credly.com/badges/a41d27e4-1220-4d93-a66a-1029949e792a/public_url)
@@ -63,11 +63,11 @@ This is my blog [It works for me](https://www.blog.danishi.net/).
 [![AWS Certified Data Analytics – Specialty](https://images.credly.com/size/110x110/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png)](https://www.credly.com/badges/81a620bb-a8c3-4ffe-b58a-30b7dec96dad/public_url)
 [![AWS Certified Alexa Skill Builder – Specialty](https://images.credly.com/size/110x110/images/dd75723c-9629-4511-8c19-154244c5423a/image.png)](https://www.credly.com/badges/3ecafdd9-6247-465e-9107-d7be32637e1f/public_url)
 
-[![Cloud Digital Leader](https://images.credly.com/size/110x110/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png)](https://www.credly.com/badges/e7d3b41a-5f8a-44df-bf3e-74cde10ceaf0/public_url)
+[<img height="110" width="110" src="https://images.credly.com/size/110x110/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png" alt="Cloud Digital Leader"/>](https://www.credly.com/badges/e7d3b41a-5f8a-44df-bf3e-74cde10ceaf0/public_url)
 [![Associate Cloud Engineer](https://images.credly.com/size/110x110/images/f6c4798e-59c9-4e94-8383-58a9041e8a7f/image.png)](https://www.credly.com/badges/c2288c96-f26f-4179-8ef0-f50e0ee9e7f9/public_url)
 [![Professional Cloud Architect](https://images.credly.com/size/110x110/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png)](https://www.credly.com/badges/e0500e94-faee-4bfe-a744-ec0f4455bec3/public_url)
 [![Professional Cloud Developer](https://images.credly.com/size/110x110/images/10227907-54b6-466f-a52c-1a26948f0aaf/image.png)](https://www.credly.com/badges/fb52ac65-75e1-49c9-8a0b-d34495a34527/public_url)
-[![Professional Cloud DevOps Engineer](https://images.credly.com/size/110x110/images/9baf2afb-e107-4acc-b886-5d8112581e73/image.png)](https://www.credly.com/badges/99d03267-9d86-45c2-a02c-bed9153e2c9c/public_url)
+[<img height="110" width="110" src="https://images.credly.com/size/110x110/images/9baf2afb-e107-4acc-b886-5d8112581e73/image.png" alt="Professional Cloud DevOps Engineer"/>](https://www.credly.com/badges/99d03267-9d86-45c2-a02c-bed9153e2c9c/public_url)
 [![Professional Cloud Database Engineer](https://images.credly.com/size/110x110/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png)](https://www.credly.com/badges/f3e4b501-32dd-455f-bb90-2e719893db57/public_url)
 [![Professional Cloud Security Engineer](https://images.credly.com/size/110x110/images/7bb9dc2d-53b4-412c-8bc7-8ea90556710d/image.png)](https://www.credly.com/badges/c15fbc2d-9fd4-46f8-9d19-658e742f19f1/public_url)
 [![Professional Data Engineer](https://images.credly.com/size/110x110/images/d7d0d0f5-ea0b-4b3f-a76f-93934726573d/image.png)](https://www.credly.com/badges/bb89744b-8097-4cc9-8805-a9b121559053/public_url)
