@@ -48,7 +48,9 @@ This is my blog [It works for me](https://www.blog.danishi.net/).
 * [2023 Japan AWS All Certifications Engineers](https://aws.amazon.com/jp/blogs/psa/2023-japan-aws-all-certifications-engineers/)
 * [2022 Qiita User Contribution Ranking 50th](https://qiita.com/Qiita/items/75a34af032d898a86679)
 
-## &#x1f396; Certifications
+<details>
+<summary><h2>&#x1f396; Badges and Certificates</h2></summary>
+  
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner"/>](https://www.credly.com/badges/4414b441-fc3e-4f1c-a02d-5c9e9811a433/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate"/>](https://www.credly.com/badges/e6a26627-e6d5-403a-baff-e68948f92325/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate"/>](https://www.credly.com/badges/9e4185d5-5a08-4276-81d4-8c6b0f4015ab/public_url)
@@ -84,6 +86,7 @@ This is my blog [It works for me](https://www.blog.danishi.net/).
 [<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/9426f11b-054a-4047-bbd1-4c2aaf137bd2" alt="JDLA Generative AI TEST 2023 #1"/>](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/VHNLcEwrVGJwRWg4R2YxZFZiUkU2UT09)
 [<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/4162276c-2a59-466a-9172-e23c6dcecae1" alt="JDLA Deep Learning for GENERAL 2021 #1"/>](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dllYNUJSVHp4aHgxRnpMV2ljM1MzUT09)
 [<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/b831f309-ca36-441f-97e1-87bbff37d277" alt="VBAエキスパート Standard Crown"/>](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/R3MreS9seHFiK2cyaGpWZHNGWUFRUT09)
+</details>
 
 * [Credly](https://www.credly.com/users/shunji-nishida.edaa312b/badges?sort=-state_updated_at&page=1)
 * [Credential](https://www.credential.net/profile/shunjinishida518395/wallet)
