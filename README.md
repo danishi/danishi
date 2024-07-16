@@ -3,8 +3,9 @@
 🔭 I’m currently working in Japan.
 
 ![counter to GitHub profile](https://komarev.com/ghpvc/?username=danishi&color=green)
-[![Github followers](https://img.shields.io/github/stars/danishi?label=Star&style=social)](https://github.com/danishi)
+[![Github stars](https://img.shields.io/github/stars/danishi?label=Star&style=social)](https://github.com/danishi)
 [![Github followers](https://img.shields.io/github/followers/danishi?label=Follow&style=social)](https://github.com/danishi)
+[![Github Sponsors](https://img.shields.io/github/sponsors/danishi?label=Sponsors&style=social)](https://github.com/sponsors/danishi)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishi&hide=html)
 ![danishi's github stats](https://github-readme-stats.vercel.app/api?username=danishi&show_icons=true&count_private=true&line_height=40)
