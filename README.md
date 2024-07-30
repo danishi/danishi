@@ -88,6 +88,9 @@ This is my blog [It works for me](https://www.blog.danishi.net/).
 [<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/9426f11b-054a-4047-bbd1-4c2aaf137bd2" alt="JDLA Generative AI TEST 2023 #1"/>](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/VHNLcEwrVGJwRWg4R2YxZFZiUkU2UT09)
 [<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/4162276c-2a59-466a-9172-e23c6dcecae1" alt="JDLA Deep Learning for GENERAL 2021 #1"/>](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dllYNUJSVHp4aHgxRnpMV2ljM1MzUT09)
 [<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/b831f309-ca36-441f-97e1-87bbff37d277" alt="VBAエキスパート Standard Crown"/>](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/R3MreS9seHFiK2cyaGpWZHNGWUFRUT09)
+
+[<img height="120" width="110" src="https://github.com/user-attachments/assets/feb8e08e-0c84-42fc-b9db-073d2835cbd4" alt="2024 iret Technical Ambassador"/>](https://cloudpack.jp/info/20240530.html)
+
 </details>
 
 * [Credly](https://www.credly.com/users/shunji-nishida.edaa312b/badges?sort=-state_updated_at&page=1)
