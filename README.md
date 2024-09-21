@@ -53,6 +53,9 @@ This is my blog [It works for me](https://www.blog.danishi.net/).
 <summary><h2>&#x1f396; Badges and Certificates</h2></summary>
   
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner"/>](https://www.credly.com/badges/4414b441-fc3e-4f1c-a02d-5c9e9811a433/public_url)
+[<img height="110" width="110" src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner"/>](https://www.credly.com/badges/7fe9e2be-38ef-4dfc-abb3-752684049314/public_url)
+[<img height="110" width="110" src="https://images.credly.com/size/110x110/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="AWS Certified AI Practitioner Early Adopter
+"/>](https://www.credly.com/badges/cb784249-be7b-48d3-8c78-baae72d669b9/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate"/>](https://www.credly.com/badges/e6a26627-e6d5-403a-baff-e68948f92325/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate"/>](https://www.credly.com/badges/9e4185d5-5a08-4276-81d4-8c6b0f4015ab/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate"/>](https://www.credly.com/badges/76c2735b-2a7e-48d7-a56d-30b61b62d452/public_url)
