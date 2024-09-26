@@ -107,3 +107,4 @@ This is my blog [It works for me](https://www.blog.danishi.net/).
 [![user:23168530's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/23168530?theme=default)](https://stackoverflow.com/users/23168530/danishi)
 [![AtCoder Rating](https://badgen.org/img/atcoder/danishi/rating/algorithm?style=plastic)](https://atcoder.jp/users/danishi?contestType=algo)
 [![AtCoder Rating(Heuristic)](https://badgen.org/img/atcoder/danishi/rating/heuristic?style=plastic)](https://atcoder.jp/users/danishi?contestType=heuristic)
+[![LeetCode user danishi](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdanishi&logo=leetcode&logoColor=yellow)](https://leetcode.com/danishi/)
