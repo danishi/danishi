@@ -1,56 +1,60 @@
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Danishi</h1>
 
-🗾 I’m currently working in Japan.
+🗾 Currently based in Japan.
 
-![counter to GitHub profile](https://komarev.com/ghpvc/?username=danishi&color=green)
-[![Github stars](https://img.shields.io/github/stars/danishi?label=Star&style=social)](https://github.com/danishi)
-[![Github followers](https://img.shields.io/github/followers/danishi?label=Follow&style=social)](https://github.com/danishi)
-[![Github Sponsors](https://img.shields.io/github/sponsors/danishi?label=Sponsor&style=social)](https://github.com/sponsors/danishi)
+<div align="center">
+  <a href="https://github.com/danishi">
+    <img src="https://komarev.com/ghpvc/?username=danishi&color=green" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/stars/danishi?label=Star&style=social" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/followers/danishi?label=Follow&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/sponsors/danishi?label=Sponsor&style=social" alt="GitHub Sponsors"/>
+  </a>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishi&hide=html)
-![danishi's github stats](https://github-readme-stats.vercel.app/api?username=danishi&show_icons=true&count_private=true&line_height=40)
-[![trophy](https://github-profile-trophy.vercel.app/?username=danishi)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-I'm looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishi&hide=html" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=danishi&show_icons=true&count_private=true&line_height=40" alt="GitHub Stats"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=danishi" alt="Trophies"/>
+  </a>
+</div>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
+## 💖 Support
+Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you can [buy me a coffee](https://www.buymeacoffee.com/danishi) ☕.
 
-## 📝 Blog, Writing & Deck
-This is my blog [It works for me](https://www.blog.danishi.net/).
+---
 
-[![Qiita Contributions](https://badgen.org/img/qiita/danishi/contributions?style=plastic)](https://qiita.com/danishi)
-[![Qiita Followers](https://badgen.org/img/qiita/danishi/followers?style=plastic)](https://qiita.com/danishi)
-[![Qiita Articles](https://badgen.org/img/qiita/danishi/articles?style=plastic)](https://qiita.com/danishi)
-[![Zenn Likes](https://badgen.org/img/zenn/danishi/likes?style=plastic)](https://zenn.dev/danishi)
-[![Zenn Followers](https://badgen.org/img/zenn/danishi/followers?style=plastic)](https://zenn.dev/danishi)
-[![Zenn Articles](https://badgen.org/img/zenn/danishi/articles?style=plastic)](https://zenn.dev/danishi)
-[![Zenn Books](https://badgen.org/img/zenn/danishi/books?style=plastic)](https://zenn.dev/danishi?tab=books)
-[![Zenn Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic)](https://zenn.dev/danishi?tab=scraps)  
-[![note](https://img.shields.io/badge/note-danishi-greeen)](https://note.com/_danishi)
-[![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-0?style=flat&logo=speaker-deck&color=009287&logoColor=white)](https://speakerdeck.com/danishi)
-[![Dev To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/danishi)
+## 📝 Blog, Writing
+- [It works for me (My blog)](https://www.blog.danishi.net/)
+- Qiita: ![Contributions](https://badgen.org/img/qiita/danishi/contributions?style=plastic) | ![Followers](https://badgen.org/img/qiita/danishi/followers?style=plastic) | ![Articles](https://badgen.org/img/qiita/danishi/articles?style=plastic)
+- Zenn: ![Likes](https://badgen.org/img/zenn/danishi/likes?style=plastic) | ![Followers](https://badgen.org/img/zenn/danishi/followers?style=plastic) | ![Articles](https://badgen.org/img/zenn/danishi/articles?style=plastic) | ![Books](https://badgen.org/img/zenn/danishi/books?style=plastic) | ![Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic)
+- [note](https://note.com/_danishi) | [Speaker Deck](https://speakerdeck.com/danishi) | [Dev.to](https://dev.to/danishi)
 
-### 🤝 Contributions to companies
-- [iret.media](https://iret.media/author/nishida)
-- [Google Cloud Innovators](https://g.dev/danishi)
-- [Google Cloud Skills Boost](https://partner.cloudskillsboost.google/public_profiles/f4473802-cc01-4b05-a7f1-28d8c02aa83b)
+---
 
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,c,css,docker,dynamodb,eclipse,fastapi,firebase,flask,gcp,git,github,githubactions,gmail,html,java,js,jquery,laravel,linux,md,mysql,nodejs,nuxtjs,php,postman,py,raspberrypi,sass,sqlite,ubuntu,vim,vscode,vue,vuetify,windows,wordpress)](https://skillicons.dev)
 
-## 🎁 My products
+---
+
+## 🎁 Products
 * [PyPI](https://pypi.org/user/danishi/)
 * [npm](https://www.npmjs.com/~danishi)
 * [Packagist](https://packagist.org/users/danishi/packages/)
 
-## 🏆 Awards 
+---
+
+## 🏆 Awards & Recognition
 * [2024 iret Technical Ambassador](https://cloudpack.jp/info/20240530.html)
 * [2024 Japan AWS All Certifications Engineers](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/)
 * [2023 Japan AWS All Certifications Engineers](https://aws.amazon.com/jp/blogs/psa/2023-japan-aws-all-certifications-engineers/)
 * [2022 Qiita User Contribution Ranking 50th](https://qiita.com/Qiita/items/75a34af032d898a86679)
 
 <details>
-<summary><h2>&#x1f396; Badges and Certificates 👈Click here❗</h2></summary>
+<summary><h2>🎖 Badges & Certificates 👈Click here❗</h2></summary>
   
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner"/>](https://www.credly.com/badges/4414b441-fc3e-4f1c-a02d-5c9e9811a433/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner"/>](https://www.credly.com/badges/7fe9e2be-38ef-4dfc-abb3-752684049314/public_url)
@@ -102,7 +106,17 @@ This is my blog [It works for me](https://www.blog.danishi.net/).
 * [Credential](https://www.credential.net/profile/shunjinishida518395/wallet)
 * [Open Badge](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/TS83WnQzbzRpZXVsUzlnM1ZxNUFMQT09), [Second account](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/WktCZUNiY0xrSXY2NWRTWmxuZ2FZdz09)
 
-## ✨ Special others
+---
+
+## 🤝 Contributions & Collaborations
+- [iret.media](https://iret.media/author/nishida)
+- [Google Cloud Innovators](https://g.dev/danishi)
+- [Google Cloud Skills Boost](https://partner.cloudskillsboost.google/public_profiles/f4473802-cc01-4b05-a7f1-28d8c02aa83b)
+
+---
+
+## ✨ Extras
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-danishi-yellow)](https://huggingface.co/danishi411)
 [![user:23168530's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/23168530?theme=default)](https://stackoverflow.com/users/23168530/danishi)
 [![AtCoder Rating](https://badgen.org/img/atcoder/danishi/rating/algorithm?style=plastic)](https://atcoder.jp/users/danishi?contestType=algo)
