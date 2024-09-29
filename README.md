@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Danishi</h1>
 
-🔭 I’m currently working in Japan.
+🗾 I’m currently working in Japan.
 
 ![counter to GitHub profile](https://komarev.com/ghpvc/?username=danishi&color=green)
 [![Github stars](https://img.shields.io/github/stars/danishi?label=Star&style=social)](https://github.com/danishi)
@@ -11,7 +11,7 @@
 ![danishi's github stats](https://github-readme-stats.vercel.app/api?username=danishi&show_icons=true&count_private=true&line_height=40)
 [![trophy](https://github-profile-trophy.vercel.app/?username=danishi)](https://github.com/ryo-ma/github-profile-trophy)
 
-I'm looking for [GitHub sponsors](https://github.com/sponsors/danishi)❤
+I'm looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
 
@@ -50,7 +50,7 @@ This is my blog [It works for me](https://www.blog.danishi.net/).
 * [2022 Qiita User Contribution Ranking 50th](https://qiita.com/Qiita/items/75a34af032d898a86679)
 
 <details>
-<summary><h2>&#x1f396; Badges and Certificates</h2></summary>
+<summary><h2>&#x1f396; Badges and Certificates 👈Click here❗</h2></summary>
   
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner"/>](https://www.credly.com/badges/4414b441-fc3e-4f1c-a02d-5c9e9811a433/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner"/>](https://www.credly.com/badges/7fe9e2be-38ef-4dfc-abb3-752684049314/public_url)
