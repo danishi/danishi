@@ -44,6 +44,8 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 * [PyPI](https://pypi.org/user/danishi/)
 * [npm](https://www.npmjs.com/~danishi)
 * [Packagist](https://packagist.org/users/danishi/packages/)
+* [Android](https://play.google.com/store/apps/developer?id=danishi)
+* [iOS](https://apps.apple.com/jp/developer/shunji-nishida/id1533570092)
 
 ---
 
