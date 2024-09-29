@@ -1,7 +1,5 @@
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Danishi</h1>
 
-🗾 Currently based in Japan.
-
 <div align="center">
   <a href="https://github.com/danishi">
     <img src="https://komarev.com/ghpvc/?username=danishi&color=green" alt="Profile Views"/>
@@ -11,7 +9,13 @@
   </a>
 </div>
 
----
+🗾 Currently based in Japan.
+
+### 🌟 Future Goals
+- Continue pushing the boundaries of **Gen AI in cloud environments**, focusing on serverless architectures and machine learning automation.
+- Mentor and guide **upcoming cloud engineers**, aiming to expand my outreach through workshops and writing.
+
+### 😃 Fun Fact
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -32,6 +36,12 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 - Qiita: ![Contributions](https://badgen.org/img/qiita/danishi/contributions?style=plastic) | ![Followers](https://badgen.org/img/qiita/danishi/followers?style=plastic) | ![Articles](https://badgen.org/img/qiita/danishi/articles?style=plastic)
 - Zenn: ![Likes](https://badgen.org/img/zenn/danishi/likes?style=plastic) | ![Followers](https://badgen.org/img/zenn/danishi/followers?style=plastic) | ![Articles](https://badgen.org/img/zenn/danishi/articles?style=plastic) | ![Books](https://badgen.org/img/zenn/danishi/books?style=plastic) | ![Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic)
 - [note](https://note.com/_danishi) | [Speaker Deck](https://speakerdeck.com/danishi) | [Dev.to](https://dev.to/danishi)
+
+---
+
+## 🎤 Talks & Workshops
+- 2024/10/24 : [AI Summit Tokyo '24 Fall](https://cloudonair.withgoogle.com/events/generative-ai-summit-24-fall) Comming Soon
+- 2024/03/19 : [AWS themed lightning talk](https://www.youtube.com/watch?v=EVdUQx4jCkE)
 
 ---
 
@@ -56,7 +66,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 * [2022 Qiita User Contribution Ranking 50th](https://qiita.com/Qiita/items/75a34af032d898a86679)
 
 <details>
-<summary><h2>🎖 Badges & Certificates 👈Click here❗</h2></summary>
+<summary><h3>🎖 Badges & Certificates 👈Click here❗</h3></summary>
   
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner"/>](https://www.credly.com/badges/4414b441-fc3e-4f1c-a02d-5c9e9811a433/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner"/>](https://www.credly.com/badges/7fe9e2be-38ef-4dfc-abb3-752684049314/public_url)
