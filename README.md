@@ -8,14 +8,18 @@
     <img src="https://img.shields.io/github/sponsors/danishi?label=Sponsor&style=social" alt="GitHub Sponsors"/>
   </a>
 </div>
-
-🗾 Currently based in Japan.
+<br>
+I'm a Japanese engineer working in Japan 🗾.  
+I'm both a manager and involved in presales, always excited to help clients find the best solutions while leading my team to success.  
+Let's connect!
 
 ### 🌟 Future Goals
 - Continue pushing the boundaries of **Gen AI in cloud environments**, focusing on serverless architectures and machine learning automation.
 - Mentor and guide **upcoming cloud engineers**, aiming to expand my outreach through workshops and writing.
 
 ### 😃 Fun Fact
+- I love drinking with friends 🍻
+- I enjoy playing with dogs and kids 🐶🧒
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -41,7 +45,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 
 ## 🎤 Talks & Workshops
 - 2024/10/24 : [AI Summit Tokyo '24 Fall](https://cloudonair.withgoogle.com/events/generative-ai-summit-24-fall) Comming Soon
-- 2024/03/19 : [AWS themed lightning talk](https://www.youtube.com/watch?v=EVdUQx4jCkE)
+- 2024/03/01 : [AWS themed lightning talk](https://www.youtube.com/watch?v=EVdUQx4jCkE)
 
 ---
 
