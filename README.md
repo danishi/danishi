@@ -70,7 +70,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 * [2022 Qiita User Contribution Ranking 50th](https://qiita.com/Qiita/items/75a34af032d898a86679)
 
 <details>
-<summary><h3>🎖 Badges & Certificates 👈Click here❗</h3></summary>
+<summary><h3>🎖 Badges & Certificates 👈 Click here❗</h3></summary>
   
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner"/>](https://www.credly.com/badges/4414b441-fc3e-4f1c-a02d-5c9e9811a433/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner"/>](https://www.credly.com/badges/7fe9e2be-38ef-4dfc-abb3-752684049314/public_url)
