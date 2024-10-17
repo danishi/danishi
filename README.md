@@ -37,8 +37,8 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 
 ## 📝 Blog, Writing
 - [It works for me (My blog)](https://www.blog.danishi.net/)
-- Qiita: ![Contributions](https://badgen.org/img/qiita/danishi/contributions?style=plastic) | ![Followers](https://badgen.org/img/qiita/danishi/followers?style=plastic) | ![Articles](https://badgen.org/img/qiita/danishi/articles?style=plastic)
-- Zenn: ![Likes](https://badgen.org/img/zenn/danishi/likes?style=plastic) | ![Followers](https://badgen.org/img/zenn/danishi/followers?style=plastic) | ![Articles](https://badgen.org/img/zenn/danishi/articles?style=plastic) | ![Books](https://badgen.org/img/zenn/danishi/books?style=plastic) | ![Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic)
+- [Qiita](https://qiita.com/danishi): ![Contributions](https://badgen.org/img/qiita/danishi/contributions?style=plastic) | ![Followers](https://badgen.org/img/qiita/danishi/followers?style=plastic) | ![Articles](https://badgen.org/img/qiita/danishi/articles?style=plastic)
+- [Zenn](https://zenn.dev/danishi): ![Likes](https://badgen.org/img/zenn/danishi/likes?style=plastic) | ![Followers](https://badgen.org/img/zenn/danishi/followers?style=plastic) | ![Articles](https://badgen.org/img/zenn/danishi/articles?style=plastic) | ![Books](https://badgen.org/img/zenn/danishi/books?style=plastic) | ![Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic)
 - [note](https://note.com/_danishi) | [Speaker Deck](https://speakerdeck.com/danishi) | [Dev.to](https://dev.to/danishi)
 
 ---
