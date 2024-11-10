@@ -19,7 +19,7 @@ Let's connect!
 
 ### 😃 Fun Fact
 - I love drinking with friends 🍻
-- I enjoy playing with dogs and kids 🐶🧒
+- I enjoy playing with my dog and my son 🐶🧒
 
 ## 📊 GitHub Stats
 <div align="center">
