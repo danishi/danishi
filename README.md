@@ -1,12 +1,10 @@
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Danishi</h1>
 
 <div align="center">
-  <a href="https://github.com/danishi">
-    <img src="https://komarev.com/ghpvc/?username=danishi&color=green" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/stars/danishi?label=Star&style=social" alt="GitHub Stars"/>
-    <img src="https://img.shields.io/github/followers/danishi?label=Follow&style=social" alt="GitHub Followers"/>
-    <img src="https://img.shields.io/github/sponsors/danishi?label=Sponsor&style=social" alt="GitHub Sponsors"/>
-  </a>
+  <a href="https://github.com/danishi"><img src="https://komarev.com/ghpvc/?username=danishi&color=green" alt="Profile Views"/></a>
+  <a href="https://github.com/danishi"><img src="https://img.shields.io/github/stars/danishi?label=Star&style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/danishi"><img src="https://img.shields.io/github/followers/danishi?label=Follow&style=social" alt="GitHub Followers"/></a>
+  <a href="https://github.com/sponsors/danishi"><img src="https://img.shields.io/github/sponsors/danishi?label=Sponsor&style=social" alt="GitHub Sponsors"/></a>
 </div>
 <br>
 I'm a Japanese engineer working in Japan 🗾.  
