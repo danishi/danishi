@@ -135,6 +135,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 
 ## ✨ Extras
 <!--START_SECTION:lapras-card-->
+<p ><a href="https://lapras.com/public/danishi" target="_blank" rel="noopener noreferrer"><img alt="danishi's scores on LAPRAS are as follows: Engineering: 3.72 out of 5.0, Business: 3.36 out of 5.0, Influence: 3.36 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.72&b=3.36&i=3.36&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="350" ></a></p>
 <!--END_SECTION:lapras-card-->
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-danishi-yellow)](https://huggingface.co/danishi411)
