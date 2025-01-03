@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Danishi</h1>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm danishi</h1>
 
 <div align="center">
   <a href="https://github.com/danishi"><img src="https://komarev.com/ghpvc/?username=danishi&color=green" alt="Profile Views"/></a>
