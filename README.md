@@ -128,6 +128,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 
 ## 🤝 Contributions & Collaborations
 - [iret.media](https://iret.media/author/nishida)
+- [Community.aws](https://community.aws/@danishi)
 - [Google Cloud Innovators](https://g.dev/danishi)
 - [Google Cloud Skills Boost](https://partner.cloudskillsboost.google/public_profiles/f4473802-cc01-4b05-a7f1-28d8c02aa83b)
 
