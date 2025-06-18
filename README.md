@@ -146,5 +146,5 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 [![AtCoder Rating(Heuristic)](https://badgen.org/img/atcoder/danishi/rating/heuristic?style=plastic)](https://atcoder.jp/users/danishi?contestType=heuristic)
 [![LeetCode user danishi](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdanishi&logo=leetcode&logoColor=yellow)](https://leetcode.com/danishi/)
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/danishi" target="_blank" rel="noopener noreferrer"><img alt="danishi's scores on LAPRAS are as follows: Engineering: 3.69 out of 5.0, Business: 4.06 out of 5.0, Influence: 3.38 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.69&b=4.06&i=3.38&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="350" ></a></p>
+<p ><a href="https://lapras.com/public/danishi" target="_blank" rel="noopener noreferrer"><img alt="danishi's scores on LAPRAS are as follows: Engineering: 3.68 out of 5.0, Business: 4.06 out of 5.0, Influence: 3.38 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.68&b=4.06&i=3.38&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="350" ></a></p>
 <!--END_SECTION:lapras-card-->
