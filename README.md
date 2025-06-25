@@ -65,6 +65,8 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ---
 
 ## 🏆 Awards & Recognition
+* [2025 Japan AWS Top Engineers](https://aws.amazon.com/jp/blogs/psa/2025-japan-aws-top-engineers/)
+* [2025 Japan All AWS Certifications Engineers](https://aws.amazon.com/jp/blogs/psa/2025-japan-all-aws-certifications-engineers/)
 * [2024 Google Cloud Partner All-star in Sales](https://cloudpack.jp/info/20241122.html)
 * [Google Cloud Partner Top Engineer 2025 Fellow](https://cloud.google.com/blog/ja/topics/partners/partner-top-engineer-2025-award-winners/)
 * [2024 iret Technical Ambassador](https://cloudpack.jp/info/20240530.html)
@@ -121,6 +123,8 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 [<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/b831f309-ca36-441f-97e1-87bbff37d277" alt="VBAエキスパート Standard Crown"/>](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/R3MreS9seHFiK2cyaGpWZHNGWUFRUT09)
 
 [<img height="120" width="110" src="https://github.com/user-attachments/assets/feb8e08e-0c84-42fc-b9db-073d2835cbd4" alt="2024 iret Technical Ambassador"/>](https://cloudpack.jp/info/20240530.html)
+[<img height="110" width="110" src="https://images.credly.com/images/9438754b-f86b-4f6a-937e-e61587147d28/blob" alt="2025 Japan AWS Top Engineer
+"/>](https://www.credly.com/badges/85c7e695-6d2c-4b8b-af12-81418d33252c)
 
 </details>
 
