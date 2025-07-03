@@ -42,7 +42,9 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ---
 
 ## 🎤 Talks & Workshops
+
 - 2025/08/06 : [Lightning talk at Google Cloud Next Tokyo '25](https://cloudpack.jp/event/google-cloud-next-tokyo-2025.html)
+- 2025/07/02 : [Google Cloud AI Agent themed lightning talk](https://www.youtube.com/watch?v=BCaj7YlwrLU)
 - 2024/11/18 : [Google Cloud GenAI Seminar](https://www.youtube.com/watch?v=dtlONkFrI5Y)
 - 2024/10/24 : [Session at Generative AI Summit Tokyo '24 Fall](https://www.youtube.com/watch?v=6YY87UwWkt8)
 - 2024/03/01 : [AWS themed lightning talk](https://www.youtube.com/watch?v=EVdUQx4jCkE)
