@@ -69,6 +69,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ## 🏆 Awards & Recognition
 * [2025 Japan AWS Top Engineers](https://aws.amazon.com/jp/blogs/psa/2025-japan-aws-top-engineers/)
 * [2025 Japan All AWS Certifications Engineers](https://aws.amazon.com/jp/blogs/psa/2025-japan-all-aws-certifications-engineers/)
+* [iret UNITE DAY 2025 PR MVP Category – Excellence Award for Case Study Publication](https://iret.media/159562)
 * [2024 Google Cloud Partner All-star in Sales](https://cloudpack.jp/info/20241122.html)
 * [Google Cloud Partner Top Engineer 2025 Fellow](https://cloud.google.com/blog/ja/topics/partners/partner-top-engineer-2025-award-winners/)
 * [2024 iret Technical Ambassador](https://cloudpack.jp/info/20240530.html)
