@@ -52,7 +52,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ---
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,c,css,docker,dynamodb,eclipse,fastapi,firebase,flask,gcp,git,github,githubactions,gmail,html,java,js,jquery,laravel,linux,md,mysql,nodejs,nuxtjs,php,postman,py,raspberrypi,sass,sqlite,ubuntu,vim,vscode,vue,vuetify,windows,wordpress)](https://skillicons.dev)
+[![My Skills](https://skills.syvixor.com/api/icons?i=amazonwebservices,apache,apple,axios,bash,bootstrap,c,css,css3,debian,docker,eclipseide,fastapi,firebase,git,gitbash,github,githubactions,githubcopilot,githubpages,googleadk,googlecloud,googlecolaboratory,googlegemini,grpc,homebrew,html,java,javascript,jquery,json,jupyter,jwt,langchain,laravel,linux,lookerstudio,markdown,mqtt,msdos,mysql,ngrok,nodejs,npm,nuxtjs,php,oracle,postman,powershell,pydantic,pypi,pytest,python,raspberrypi,redoc,regex,rest,sass,serverless,slack,spark,sqlite,streamlit,swagger,tailwindcss,typescript,ubuntu,vim,visualstudiocode,vuejs,vuetify,windows,wordpress,xampp,yaml,yarn)](https://builder.syvixor.com/)
 
 ---
 
