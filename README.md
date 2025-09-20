@@ -101,6 +101,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/dd75723c-9629-4511-8c19-154244c5423a/image.png" alt="AWS Certified Alexa Skill Builder – Specialty"/>](https://www.credly.com/badges/3ecafdd9-6247-465e-9107-d7be32637e1f/public_url)
 
 [<img height="110" width="110" src="https://github.com/user-attachments/assets/c4d7d87c-8062-4f30-9877-91f466fbec1f" alt="Azure Fundamentals"/>](https://learn.microsoft.com/ja-jp/users/danishi/credentials/7a41a93c2ff5823)
+[<img height="110" width="110" src="https://github.com/user-attachments/assets/545cbc8b-ebb8-4705-ac50-9541f4769f99" alt="Azure AI Fundamentals"/>](https://learn.microsoft.com/api/credentials/share/ja-jp/danishi/314362921EF27F4C?sharingId=E0CA69D25B9BD332)
 
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png" alt="Cloud Digital Leader"/>](https://www.credly.com/badges/e7d3b41a-5f8a-44df-bf3e-74cde10ceaf0/public_url)
 [<img height="110" width="110" src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" alt="Generative AI Leader"/>](https://www.credly.com/badges/68ccdcbd-8252-4049-9330-994f7a45999c/public_url)
