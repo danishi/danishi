@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm danishi</h1>
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm danishi</h1>
 
 <div align="center">
   <a href="https://github.com/danishi"><img src="https://komarev.com/ghpvc/?username=danishi&color=green" alt="Profile Views"/></a>
@@ -6,7 +6,13 @@
   <a href="https://github.com/danishi?tab=followers"><img src="https://img.shields.io/github/followers/danishi?label=Follow&style=social" alt="GitHub Followers"/></a>
   <a href="https://github.com/sponsors/danishi"><img src="https://img.shields.io/github/sponsors/danishi?label=Sponsor&style=social" alt="GitHub Sponsors"/></a>
 </div>
-<br>
+
+<!-- About Me -->
+<h3 align="center">About Me</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0e75b6&size=24&center=true&vCenter=true&width=435&lines=Passionate+about+coding;Always+learning+new+things;Open+Source+Contributor;Love+problem+solving" alt="Typing SVG" />
+</p>
+
 I'm a Japanese engineer working in Japan 🗾.  
 I'm both a manager and involved in presales, always excited to help clients find the best solutions while leading my team to success.  
 Let's connect!
