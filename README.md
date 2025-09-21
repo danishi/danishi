@@ -12,7 +12,7 @@
 <!-- About Me -->
 <h3 align="center">About Me</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0e75b6&size=24&center=true&vCenter=true&width=435&lines=Passionate+about+coding;Always+learning+new+things;Open+Source+Contributor;Love+problem+solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=4DF71F&size=24&center=true&vCenter=true&width=435&lines=Passionate+about+coding;Always+learning+new+things;Open+Source+Contributor;Love+problem+solving" alt="Typing SVG" />
 </p>
 
 I'm a Japanese engineer working in Japan 🗾.  
