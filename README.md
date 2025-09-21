@@ -172,3 +172,5 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/danishi" target="_blank" rel="noopener noreferrer"><img alt="danishi's scores on LAPRAS are as follows: Engineering: 3.71 out of 5.0, Business: 4.06 out of 5.0, Influence: 3.41 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.71&b=4.06&i=3.41&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="350" ></a></p>
 <!--END_SECTION:lapras-card-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
