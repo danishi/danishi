@@ -7,6 +7,7 @@
   <a href="https://github.com/danishi?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/github/stars/danishi?label=Star&style=social" alt="GitHub Stars"/></a>
   <a href="https://github.com/danishi?tab=followers"><img src="https://img.shields.io/github/followers/danishi?label=Follow&style=social" alt="GitHub Followers"/></a>
   <a href="https://github.com/sponsors/danishi"><img src="https://img.shields.io/github/sponsors/danishi?label=Sponsor&style=social" alt="GitHub Sponsors"/></a>
+  <a href="https://deepwiki.com/danishi/danishi"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"/></a>
 </div>
 
 <!-- About Me -->
