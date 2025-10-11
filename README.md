@@ -21,12 +21,12 @@ I'm both a manager and involved in presales, always excited to help clients find
 Let's connect!
 
 ### 🌟 Future Goals
-- Continue pushing the boundaries of **Gen AI in cloud environments**, focusing on serverless architectures and machine learning automation.
-- Mentor and guide **upcoming cloud engineers**, aiming to expand my outreach through workshops and writing.
+* Continue pushing the boundaries of **Gen AI in cloud environments**, focusing on serverless architectures and machine learning automation.
+* Mentor and guide **upcoming cloud engineers**, aiming to expand my outreach through workshops and writing.
 
 ### 😃 Fun Fact
-- I love drinking with friends 🍻
-- I enjoy playing with my dog and my son 🐶🧒
+* I love drinking with friends 🍻
+* I enjoy playing with my dog and my son 🐶🧒
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -43,20 +43,20 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ---
 
 ## 📝 Blog, Writing
-- [It works for me (My blog)](https://www.blog.danishi.net/)
-- [Qiita](https://qiita.com/danishi): ![Contributions](https://badgen.org/img/qiita/danishi/contributions?style=plastic) | ![Followers](https://badgen.org/img/qiita/danishi/followers?style=plastic) | ![Articles](https://badgen.org/img/qiita/danishi/articles?style=plastic)
-- [Zenn](https://zenn.dev/danishi): ![Likes](https://badgen.org/img/zenn/danishi/likes?style=plastic) | ![Followers](https://badgen.org/img/zenn/danishi/followers?style=plastic) | ![Articles](https://badgen.org/img/zenn/danishi/articles?style=plastic) | ![Books](https://badgen.org/img/zenn/danishi/books?style=plastic) | ![Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic)
-- [note](https://note.com/_danishi) | [Speaker Deck](https://speakerdeck.com/danishi) | [Docswell](https://www.docswell.com/user/danishi) | [Dev.to](https://dev.to/danishi)
+* [It works for me (My blog)](https://www.blog.danishi.net/)
+* [Qiita](https://qiita.com/danishi): ![Contributions](https://badgen.org/img/qiita/danishi/contributions?style=plastic) | ![Followers](https://badgen.org/img/qiita/danishi/followers?style=plastic) | ![Articles](https://badgen.org/img/qiita/danishi/articles?style=plastic)
+* [Zenn](https://zenn.dev/danishi): ![Likes](https://badgen.org/img/zenn/danishi/likes?style=plastic) | ![Followers](https://badgen.org/img/zenn/danishi/followers?style=plastic) | ![Articles](https://badgen.org/img/zenn/danishi/articles?style=plastic) | ![Books](https://badgen.org/img/zenn/danishi/books?style=plastic) | ![Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic)
+* [note](https://note.com/_danishi) | [Speaker Deck](https://speakerdeck.com/danishi) | [Docswell](https://www.docswell.com/user/danishi) | [Dev.to](https://dev.to/danishi)
 
 ---
 
 ## 🎤 Talks & Workshops
-
-- 2025/08/06 : [Lightning talk at Google Cloud Next Tokyo '25](https://cloudpack.jp/event/google-cloud-next-tokyo-2025.html)
-- 2025/07/02 : [Google Cloud AI Agent themed lightning talk](https://www.youtube.com/watch?v=BCaj7YlwrLU)
-- 2024/11/18 : [Google Cloud GenAI Seminar](https://www.youtube.com/watch?v=dtlONkFrI5Y)
-- 2024/10/24 : [Session at Generative AI Summit Tokyo '24 Fall](https://www.youtube.com/watch?v=6YY87UwWkt8)
-- 2024/03/01 : [AWS themed lightning talk](https://www.youtube.com/watch?v=EVdUQx4jCkE)
+* 2025/10/31: Google Cloud AI Agent Summit ’25 Fall
+* 2025/08/06: [Lightning talk at Google Cloud Next Tokyo '25](https://cloudpack.jp/event/google-cloud-next-tokyo-2025.html)
+* 2025/07/02: [Google Cloud AI Agent themed lightning talk](https://www.youtube.com/watch?v=BCaj7YlwrLU)
+* 2024/11/18: [Google Cloud GenAI Seminar](https://www.youtube.com/watch?v=dtlONkFrI5Y)
+* 2024/10/24: [Session at Generative AI Summit Tokyo '24 Fall](https://www.youtube.com/watch?v=6YY87UwWkt8)
+* 2024/03/01: [AWS themed lightning talk](https://www.youtube.com/watch?v=EVdUQx4jCkE)
 
 ---
 
@@ -155,12 +155,12 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ---
 
 ## 🤝 Contributions & Collaborations
-- [iret.media](https://iret.media/author/nishida)
-- [Community.aws](https://community.aws/@danishi)
-- [Google Cloud Innovators](https://g.dev/danishi)
-- [Google Cloud Skills Boost](https://partner.cloudskillsboost.google/public_profiles/f4473802-cc01-4b05-a7f1-28d8c02aa83b)
-- [Microsoft Learn](https://learn.microsoft.com/ja-jp/users/danishi/)
-- [Findy Tools](https://findy-tools.io/products/vertexai/396/476)
+* [iret.media](https://iret.media/author/nishida)
+* [Community.aws](https://community.aws/@danishi)
+* [Google Cloud Innovators](https://g.dev/danishi)
+* [Google Cloud Skills Boost](https://partner.cloudskillsboost.google/public_profiles/f4473802-cc01-4b05-a7f1-28d8c02aa83b)
+* [Microsoft Learn](https://learn.microsoft.com/ja-jp/users/danishi/)
+* [Findy Tools](https://findy-tools.io/products/vertexai/396/476)
 
 ---
 
