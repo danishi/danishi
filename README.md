@@ -73,6 +73,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 * [iOS](https://apps.apple.com/jp/developer/shunji-nishida/id1533570092)
 * [PartyRock](https://partyrock.aws/u/danishi3)
 * [Product Hunt](https://www.producthunt.com/@danishi)
+* [Figma](https://www.figma.com/@6037c3e5_f544_4)
 
 ---
 
