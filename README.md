@@ -51,7 +51,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ---
 
 ## 🎤 Talks & Workshops
-* 2025/10/31: [Google Cloud AI Agent Summit ’25 Fall](https://www.youtube.com/live/mFXSgTO9N-s?si=Bku9x8cudJlV8hXh&t=6568)
+* 2025/10/31: [Google Cloud AI Agent Summit ’25 Fall](https://www.youtube.com/watch?v=hSblZdTSUFw)
 * 2025/08/06: [Lightning talk at Google Cloud Next Tokyo '25](https://cloudpack.jp/event/google-cloud-next-tokyo-2025.html)
 * 2025/07/02: [Google Cloud AI Agent themed lightning talk](https://www.youtube.com/watch?v=BCaj7YlwrLU)
 * 2024/11/18: [Google Cloud GenAI Seminar](https://www.youtube.com/watch?v=dtlONkFrI5Y)
