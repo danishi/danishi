@@ -51,6 +51,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ---
 
 ## 🎤 Talks & Workshops
+* 2025/11/14: [Google Cloud Dual-Blade Engineering Course – Part 3](https://www.youtube.com/watch?v=koPVl_gADyw)
 * 2025/10/31: [Google Cloud AI Agent Summit ’25 Fall](https://www.youtube.com/watch?v=hSblZdTSUFw)
 * 2025/08/06: [Lightning talk at Google Cloud Next Tokyo '25](https://cloudpack.jp/event/google-cloud-next-tokyo-2025.html)
 * 2025/07/02: [Google Cloud AI Agent themed lightning talk](https://www.youtube.com/watch?v=BCaj7YlwrLU)
