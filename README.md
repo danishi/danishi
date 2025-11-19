@@ -79,6 +79,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ---
 
 ## 🏆 Awards & Recognition
+* [Google Cloud Partner Top Engineer 2026 Fellow](https://cloud.google.com/blog/ja/topics/partners/announcing-the-winners-of-the-google-cloud-partner-top-engineer-2026-award-program)
 * [Google Cloud Partner All Certification Holders 2025](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-all-certification-holders-2025/)
 * [2025 Japan AWS Top Engineers](https://aws.amazon.com/jp/blogs/psa/2025-japan-aws-top-engineers/)
 * [2025 Japan All AWS Certifications Engineers](https://aws.amazon.com/jp/blogs/psa/2025-japan-all-aws-certifications-engineers/)
