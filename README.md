@@ -166,6 +166,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 * [Google Skills](https://partner.skills.google/public_profiles/f4473802-cc01-4b05-a7f1-28d8c02aa83b)
 * [Microsoft Learn](https://learn.microsoft.com/ja-jp/users/danishi/)
 * [Findy Tools](https://findy-tools.io/products/vertexai/396/476)
+* [@IT](https://atmarkit.itmedia.co.jp/ait/articles/2511/26/news005.html)
 
 ---
 
