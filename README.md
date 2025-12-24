@@ -149,8 +149,8 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 [<img height="120" width="110" src="https://github.com/user-attachments/assets/9917b40d-6169-4a19-b0c9-fb891cc55962" alt="Expired: April 25, 2025: Registered Scrum Master"/>](https://scruminc.jp/training/master/)
 [<img height="120" width="110" src="https://github.com/user-attachments/assets/743a7f4e-109b-4af9-85fd-ae111b97b576" alt="2025 Japan All AWS Certifications Engineers"/>](https://aws.amazon.com/jp/blogs/psa/2025-japan-all-aws-certifications-engineers/)
 [<img height="110" width="110" src="https://images.credly.com/images/9438754b-f86b-4f6a-937e-e61587147d28/blob" alt="2025 Japan AWS Top Engineer"/>](https://www.credly.com/badges/85c7e695-6d2c-4b8b-af12-81418d33252c)
-[<img height="120" src="https://github.com/user-attachments/assets/41b82b38-5ab9-4a58-81b7-7dc8e99b7bb4" alt="Google Cloud Partner Top Engineer 2026"/>](https://cloud.google.com/blog/ja/topics/partners/announcing-the-winners-of-the-google-cloud-partner-top-engineer-2026-award-program)
 [<img width="120" height="110" alt="GoogleCloud_All-Cert-Holder_Mark_20251104_CMYK" src="https://github.com/user-attachments/assets/33258bce-e778-4a54-8596-9373ab407181" />](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-all-certification-holders-2025/)
+[<img height="120" src="https://github.com/user-attachments/assets/41b82b38-5ab9-4a58-81b7-7dc8e99b7bb4" alt="Google Cloud Partner Top Engineer 2026"/>](https://cloud.google.com/blog/ja/topics/partners/announcing-the-winners-of-the-google-cloud-partner-top-engineer-2026-award-program)
 
 </details>
 
