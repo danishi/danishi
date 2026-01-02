@@ -8,6 +8,7 @@
   <a href="https://github.com/danishi?tab=followers"><img src="https://img.shields.io/github/followers/danishi?label=Follow&style=social" alt="GitHub Followers"/></a>
   <a href="https://github.com/sponsors/danishi"><img src="https://img.shields.io/github/sponsors/danishi?label=Sponsor&style=social" alt="GitHub Sponsors"/></a>
   <a href="https://deepwiki.com/danishi/danishi"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"/></a>
+  <a href="https://notebooklm.google.com/notebook/bf6e1d76-512d-4e99-aba3-fef8e3418a40"><img src="https://img.shields.io/badge/NotebookLM-R%C3%A9sum%C3%A9-blue" alt="Ask NotebookLM"/></a>
 </div>
 
 <!-- About Me -->
