@@ -174,6 +174,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 
 ## ✨ Extras
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
+<a href="https://www.amazon.co.jp/registry/wishlist/86VBU5ARU5E1"><img src="https://img.shields.io/badge/Amazon-My Whis List-orange" alt="My Whis List"/></a>
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-danishi-yellow)](https://huggingface.co/danishi411)
 [![user:23168530's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/23168530?theme=default)](https://stackoverflow.com/users/23168530/danishi)
 [![AtCoder Rating](https://badgen.org/img/atcoder/danishi/rating/algorithm?style=plastic)](https://atcoder.jp/users/danishi?contestType=algo)
