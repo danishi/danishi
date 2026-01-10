@@ -156,7 +156,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 </details>
 
 * [Credly](https://www.credly.com/users/shunji-nishida.edaa312b/badges?sort=-state_updated_at&page=1)
-* [Credential](https://www.credential.net/profile/shunjinishida518395/wallet)
+* [Credential](https://www.credential.net/profile/danishi/wallet)
 * [Open Badge](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/TS83WnQzbzRpZXVsUzlnM1ZxNUFMQT09)
 
 ---
