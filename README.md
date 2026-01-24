@@ -140,7 +140,9 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 [<img height="110" width="110" src="https://images.credly.com/images/92367361-e44a-43e1-9743-2ca7d68c690d/Japan_Master_Silver_Oracle_DB_12c_Badge__1_.png" alt="ORACLE MASTER Silver Oracle Database 12c"/>](https://www.credly.com/badges/03be280d-3f57-4866-a848-2d05a061d6fe/public_url)
 
 [<img height="110" width="110" src="https://github.com/user-attachments/assets/ad001610-67e4-471a-9419-5f8058ac41fa" alt="Databricks Certified Generative AI Engineer Associate"/>](https://credentials.databricks.com/78a82df2-9cfd-44cc-995a-4030acd59901#acc.ML275jEl)
+[<img height="110" width="110" src="https://github.com/user-attachments/assets/38e76448-bb19-4d18-986c-2dcc4004e9ab" alt="Databricks Certified Data Engineer Associate"/>](https://credentials.databricks.com/734d503a-aeb0-4314-b448-0b3301ad33b9#acc.KunfoP17)
 [<img height="110" width="110" src="https://github.com/user-attachments/assets/59b01bac-a930-41b0-b2d8-d31c472e97d0" alt="Partner Training - Gen AI & LLM on Databricks"/>](https://credentials.databricks.com/242b3c21-f4ca-40c7-82a1-a7cf91b1e679#acc.jeFfRvsE)
+
 
 [<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/3cef40c5-8a1d-44c7-98ef-c33096b02a6d" alt="JDLA Generative AI TEST 2024 #1"/>](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/OFBDZUI3d3NlY3JtTmZ0ZDAxTDN5Zz09)
 [<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/9426f11b-054a-4047-bbd1-4c2aaf137bd2" alt="JDLA Generative AI TEST 2023 #1"/>](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/VHNLcEwrVGJwRWg4R2YxZFZiUkU2UT09)
