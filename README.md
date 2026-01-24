@@ -94,7 +94,8 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 
 <details>
 <summary><h3>🎖 Badges & Certificates 👈 Click here❗</h3></summary>
-  
+
+<!-- AWS -->
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner"/>](https://www.credly.com/badges/4414b441-fc3e-4f1c-a02d-5c9e9811a433/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner"/>](https://www.credly.com/badges/7fe9e2be-38ef-4dfc-abb3-752684049314/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="AWS Certified AI Practitioner Early Adopter"/>](https://www.credly.com/badges/cb784249-be7b-48d3-8c78-baae72d669b9/public_url)
@@ -116,9 +117,11 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png" alt="AWS Certified Data Analytics – Specialty"/>](https://www.credly.com/badges/81a620bb-a8c3-4ffe-b58a-30b7dec96dad/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/dd75723c-9629-4511-8c19-154244c5423a/image.png" alt="AWS Certified Alexa Skill Builder – Specialty"/>](https://www.credly.com/badges/3ecafdd9-6247-465e-9107-d7be32637e1f/public_url)
 
+<!-- Azure -->
 [<img height="110" width="110" src="https://github.com/user-attachments/assets/c4d7d87c-8062-4f30-9877-91f466fbec1f" alt="Azure Fundamentals"/>](https://learn.microsoft.com/ja-jp/users/danishi/credentials/7a41a93c2ff5823)
 [<img height="110" width="110" src="https://github.com/user-attachments/assets/545cbc8b-ebb8-4705-ac50-9541f4769f99" alt="Azure AI Fundamentals"/>](https://learn.microsoft.com/api/credentials/share/ja-jp/danishi/314362921EF27F4C?sharingId=E0CA69D25B9BD332)
 
+<!-- Google Cloud -->
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png" alt="Cloud Digital Leader"/>](https://www.credly.com/badges/e7d3b41a-5f8a-44df-bf3e-74cde10ceaf0/public_url)
 [<img height="110" width="110" src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" alt="Generative AI Leader"/>](https://www.credly.com/badges/68ccdcbd-8252-4049-9330-994f7a45999c/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/f6c4798e-59c9-4e94-8383-58a9041e8a7f/image.png" alt="Associate Cloud Engineer"/>](https://www.credly.com/badges/c2288c96-f26f-4179-8ef0-f50e0ee9e7f9/public_url)
@@ -134,16 +137,18 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/08a802bf-f2fa-44fb-8110-92acf6195738/image.png" alt="Professional Cloud Network Engineer"/>](https://www.credly.com/badges/e89672b5-4380-40bd-9366-57b9d800b99c/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/8848cf4b-31e8-4bf8-b76f-f831f4db433b/image.png" alt="Professional Google Workspace Administrator"/>](https://www.credly.com/badges/a7bf85ea-fb18-4f85-8eed-680b4a00c2f0/public_url)
 
+<!-- Oracle -->
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/ce8187a0-700e-4757-9d4e-dcb3f2f88f56/Japan_Silver_Java_SE_7_Programmer_Badge__3_.png" alt="Oracle Certified Java Programmer, Silver SE 7"/>](https://www.credly.com/badges/23481bf4-c869-4013-a66c-ccdf2a322457/public_url)
 [<img height="110" width="110" src="https://images.credly.com/images/b5f4764e-10b5-452d-becd-900a59c0986b/Japan_Gold_Java_SE_7_Programmer_Badge__1_.png" alt="Oracle Certified Java Programmer, Gold SE 7"/>](https://www.credly.com/badges/d2294941-0851-45c1-bb5e-7e926ab28434/public_url)
 [<img height="110" width="110" src="https://images.credly.com/images/26b2b8e1-fd0e-4437-942a-5230687425e8/Japan_Master_Bronze_Oracle_Database_12c_Badge__1_.png" alt="ORACLE MASTER Bronze Oracle Database 12c"/>](https://www.credly.com/badges/51f318fe-f00a-41d4-91e7-39cb89f4e525/public_url)
 [<img height="110" width="110" src="https://images.credly.com/images/92367361-e44a-43e1-9743-2ca7d68c690d/Japan_Master_Silver_Oracle_DB_12c_Badge__1_.png" alt="ORACLE MASTER Silver Oracle Database 12c"/>](https://www.credly.com/badges/03be280d-3f57-4866-a848-2d05a061d6fe/public_url)
 
+<!-- Databricks -->
 [<img height="110" width="110" src="https://github.com/user-attachments/assets/ad001610-67e4-471a-9419-5f8058ac41fa" alt="Databricks Certified Generative AI Engineer Associate"/>](https://credentials.databricks.com/78a82df2-9cfd-44cc-995a-4030acd59901#acc.ML275jEl)
 [<img height="110" width="110" src="https://github.com/user-attachments/assets/38e76448-bb19-4d18-986c-2dcc4004e9ab" alt="Databricks Certified Data Engineer Associate"/>](https://credentials.databricks.com/734d503a-aeb0-4314-b448-0b3301ad33b9#acc.KunfoP17)
 [<img height="110" width="110" src="https://github.com/user-attachments/assets/59b01bac-a930-41b0-b2d8-d31c472e97d0" alt="Partner Training - Gen AI & LLM on Databricks"/>](https://credentials.databricks.com/242b3c21-f4ca-40c7-82a1-a7cf91b1e679#acc.jeFfRvsE)
 
-
+<!-- Others -->
 [<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/3cef40c5-8a1d-44c7-98ef-c33096b02a6d" alt="JDLA Generative AI TEST 2024 #1"/>](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/OFBDZUI3d3NlY3JtTmZ0ZDAxTDN5Zz09)
 [<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/9426f11b-054a-4047-bbd1-4c2aaf137bd2" alt="JDLA Generative AI TEST 2023 #1"/>](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/VHNLcEwrVGJwRWg4R2YxZFZiUkU2UT09)
 [<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/4162276c-2a59-466a-9172-e23c6dcecae1" alt="JDLA Deep Learning for GENERAL 2021 #1"/>](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dllYNUJSVHp4aHgxRnpMV2ljM1MzUT09)
@@ -151,6 +156,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 [<img height="110" width="110" src="https://github.com/user-attachments/assets/26552b75-2eaa-4d84-b38f-649778d32c66" alt="VBAエキスパート Access VBA Standard"/>](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/akJYVFg5c2tvNU1LYUF3U1NuNGJXZz09)
 [<img height="110" width="110" src="https://github.com/danishi/danishi/assets/13270461/b831f309-ca36-441f-97e1-87bbff37d277" alt="VBAエキスパート Standard Crown"/>](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/R3MreS9seHFiK2cyaGpWZHNGWUFRUT09)
 
+<!-- Specials -->
 [<img height="120" width="110" src="https://github.com/user-attachments/assets/feb8e08e-0c84-42fc-b9db-073d2835cbd4" alt="2024 iret Technical Ambassador"/>](https://cloudpack.jp/info/20240530.html)
 [<img height="120" width="110" src="https://github.com/user-attachments/assets/9917b40d-6169-4a19-b0c9-fb891cc55962" alt="Expired: April 25, 2025: Registered Scrum Master"/>](https://scruminc.jp/training/master/)
 [<img height="120" width="110" src="https://github.com/user-attachments/assets/743a7f4e-109b-4af9-85fd-ae111b97b576" alt="2025 Japan All AWS Certifications Engineers"/>](https://aws.amazon.com/jp/blogs/psa/2025-japan-all-aws-certifications-engineers/)
