@@ -175,6 +175,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ## 🤝 Contributions & Collaborations
 * [iret.media](https://iret.media/author/nishida)
 * [Community.aws](https://builder.aws.com/community/@danishi)
+* [AWS Skill Builder](https://skillsprofile.skillbuilder.aws/user/danishi/)
 * [Google Cloud Innovators](https://g.dev/danishi)
 * [Google Skills](https://partner.skills.google/public_profiles/f4473802-cc01-4b05-a7f1-28d8c02aa83b)
 * [Microsoft Learn](https://learn.microsoft.com/ja-jp/users/danishi/)
