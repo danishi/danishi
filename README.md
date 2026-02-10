@@ -14,16 +14,31 @@
 <!-- About Me -->
 <h3 align="center">About Me</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=4DF71F&size=24&center=true&vCenter=true&width=435&lines=Passionate+about+coding;Always+learning+new+things;Open+Source+Contributor;Love+problem+solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=4DF71F&size=24&center=true&vCenter=true&width=550&lines=Google+Cloud+Partner+Top+Engineer+Fellow;AWS+Top+Engineer+%7C+All+Certs+Holder;Cloud+%26+AI+Architect+%F0%9F%8C%A9%EF%B8%8F;OSS+Contributor+%7C+Speaker+%7C+Writer;30%2B+Cloud+Certifications+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-I'm a Japanese engineer working in Japan 🗾.  
-I'm both a manager and involved in presales, always excited to help clients find the best solutions while leading my team to success.  
-Let's connect!
-
-### 🌟 Future Goals
-* Continue pushing the boundaries of **Gen AI in cloud environments**, focusing on serverless architectures and machine learning automation.
-* Mentor and guide **upcoming cloud engineers**, aiming to expand my outreach through workshops and writing.
+<table align="center">
+  <tr>
+    <td>🗾</td>
+    <td>Japanese engineer — Manager & Presales, bridging technology and business to deliver the best solutions for clients</td>
+  </tr>
+  <tr>
+    <td>☁️</td>
+    <td>Multi-cloud expert with <strong>30+ certifications</strong> across AWS, Google Cloud, Azure & Databricks</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td>Passionate about <strong>Gen AI × Cloud</strong> — serverless architectures, ML automation & AI agents</td>
+  </tr>
+  <tr>
+    <td>🎤</td>
+    <td>Active speaker & writer — conferences, tech blogs, and community contributions</td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td>Mentoring the next generation of cloud engineers through workshops and hands-on content</td>
+  </tr>
+</table>
 
 ### 😃 Fun Fact
 * I love drinking with friends 🍻
@@ -31,10 +46,13 @@ Let's connect!
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishi&hide=html" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=danishi&show_icons=true&count_private=true&line_height=40" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=danishi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danishi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishi&hide=html&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=danishi" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=danishi&theme=tokyonight&no-frame=true&column=7" alt="Trophies"/>
   </a>
 </div>
 
@@ -43,22 +61,26 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 
 ---
 
-## 📝 Blog, Writing
-* [It works for me (My blog)](https://www.blog.danishi.net/)
-* [Qiita](https://qiita.com/danishi): ![Contributions](https://badgen.org/img/qiita/danishi/contributions?style=plastic) | ![Followers](https://badgen.org/img/qiita/danishi/followers?style=plastic) | ![Articles](https://badgen.org/img/qiita/danishi/articles?style=plastic)
-* [Zenn](https://zenn.dev/danishi): ![Likes](https://badgen.org/img/zenn/danishi/likes?style=plastic) | ![Followers](https://badgen.org/img/zenn/danishi/followers?style=plastic) | ![Articles](https://badgen.org/img/zenn/danishi/articles?style=plastic) | ![Books](https://badgen.org/img/zenn/danishi/books?style=plastic) | ![Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic)
-* [note](https://note.com/_danishi) | [Speaker Deck](https://speakerdeck.com/danishi) | [Docswell](https://www.docswell.com/user/danishi) | [Dev.to](https://dev.to/danishi)
+## 📝 Blog & Writing
+| Platform | Stats |
+|:---------|:------|
+| [🌐 It works for me (My blog)](https://www.blog.danishi.net/) | Personal tech blog |
+| [📗 Qiita](https://qiita.com/danishi) | ![Contributions](https://badgen.org/img/qiita/danishi/contributions?style=plastic) ![Followers](https://badgen.org/img/qiita/danishi/followers?style=plastic) ![Articles](https://badgen.org/img/qiita/danishi/articles?style=plastic) |
+| [💙 Zenn](https://zenn.dev/danishi) | ![Likes](https://badgen.org/img/zenn/danishi/likes?style=plastic) ![Followers](https://badgen.org/img/zenn/danishi/followers?style=plastic) ![Articles](https://badgen.org/img/zenn/danishi/articles?style=plastic) ![Books](https://badgen.org/img/zenn/danishi/books?style=plastic) ![Scraps](https://badgen.org/img/zenn/danishi/scraps?style=plastic) |
+| Other | [note](https://note.com/_danishi) ・ [Speaker Deck](https://speakerdeck.com/danishi) ・ [Docswell](https://www.docswell.com/user/danishi) ・ [Dev.to](https://dev.to/danishi) |
 
 ---
 
 ## 🎤 Talks & Workshops
-* 2025/11/14: [Google Cloud Dual-Blade Engineering Course – Part 3](https://www.youtube.com/watch?v=koPVl_gADyw)
-* 2025/10/31: [Google Cloud AI Agent Summit ’25 Fall](https://www.youtube.com/watch?v=hSblZdTSUFw)
-* 2025/08/06: [Lightning talk at Google Cloud Next Tokyo '25](https://cloudpack.jp/event/google-cloud-next-tokyo-2025.html)
-* 2025/07/02: [Google Cloud AI Agent themed lightning talk](https://www.youtube.com/watch?v=BCaj7YlwrLU)
-* 2024/11/18: [Google Cloud GenAI Seminar](https://www.youtube.com/watch?v=dtlONkFrI5Y)
-* 2024/10/24: [Session at Generative AI Summit Tokyo '24 Fall](https://www.youtube.com/watch?v=6YY87UwWkt8)
-* 2024/03/01: [AWS themed lightning talk](https://www.youtube.com/watch?v=EVdUQx4jCkE)
+| Date | Event | Link |
+|:-----|:------|:----:|
+| 2025/11/14 | Google Cloud Dual-Blade Engineering Course – Part 3 | [▶️ Watch](https://www.youtube.com/watch?v=koPVl_gADyw) |
+| 2025/10/31 | Google Cloud AI Agent Summit '25 Fall | [▶️ Watch](https://www.youtube.com/watch?v=hSblZdTSUFw) |
+| 2025/08/06 | Lightning talk at Google Cloud Next Tokyo '25 | [🔗 Details](https://cloudpack.jp/event/google-cloud-next-tokyo-2025.html) |
+| 2025/07/02 | Google Cloud AI Agent themed lightning talk | [▶️ Watch](https://www.youtube.com/watch?v=BCaj7YlwrLU) |
+| 2024/11/18 | Google Cloud GenAI Seminar | [▶️ Watch](https://www.youtube.com/watch?v=dtlONkFrI5Y) |
+| 2024/10/24 | Session at Generative AI Summit Tokyo '24 Fall | [▶️ Watch](https://www.youtube.com/watch?v=6YY87UwWkt8) |
+| 2024/03/01 | AWS themed lightning talk | [▶️ Watch](https://www.youtube.com/watch?v=EVdUQx4jCkE) |
 
 ---
 
@@ -68,14 +90,16 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ---
 
 ## 🎁 Products
-* [PyPI](https://pypi.org/user/danishi/)
-* [npm](https://www.npmjs.com/~danishi)
-* [Packagist](https://packagist.org/users/danishi/packages/)
-* [Android](https://play.google.com/store/apps/developer?id=danishi)
-* [iOS](https://apps.apple.com/jp/developer/shunji-nishida/id1533570092)
-* [PartyRock](https://partyrock.aws/u/danishi3)
-* [Product Hunt](https://www.producthunt.com/@danishi)
-* [Figma](https://www.figma.com/@6037c3e5_f544_4)
+<p>
+  <a href="https://pypi.org/user/danishi/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"/></a>
+  <a href="https://www.npmjs.com/~danishi"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
+  <a href="https://packagist.org/users/danishi/packages/"><img src="https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=packagist&logoColor=white" alt="Packagist"/></a>
+  <a href="https://play.google.com/store/apps/developer?id=danishi"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>
+  <a href="https://apps.apple.com/jp/developer/shunji-nishida/id1533570092"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
+  <a href="https://partyrock.aws/u/danishi3"><img src="https://img.shields.io/badge/PartyRock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="PartyRock"/></a>
+  <a href="https://www.producthunt.com/@danishi"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/></a>
+  <a href="https://www.figma.com/@6037c3e5_f544_4"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+</p>
 
 ---
 
@@ -173,25 +197,33 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ---
 
 ## 🤝 Contributions & Collaborations
-* [iret.media](https://iret.media/author/nishida)
-* [Community.aws](https://builder.aws.com/community/@danishi)
-* [AWS Skill Builder](https://skillsprofile.skillbuilder.aws/user/danishi/)
-* [Google Cloud Innovators](https://g.dev/danishi)
-* [Google Skills](https://partner.skills.google/public_profiles/f4473802-cc01-4b05-a7f1-28d8c02aa83b)
-* [Microsoft Learn](https://learn.microsoft.com/ja-jp/users/danishi/)
-* [Findy Tools](https://findy-tools.io/products/vertexai/396/476)
-* [@IT](https://atmarkit.itmedia.co.jp/ait/articles/2511/26/news005.html)
+<p>
+  <a href="https://iret.media/author/nishida"><img src="https://img.shields.io/badge/iret.media-Author-00B2A9?style=flat-square" alt="iret.media"/></a>
+  <a href="https://builder.aws.com/community/@danishi"><img src="https://img.shields.io/badge/Community.aws-Builder-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Community.aws"/></a>
+  <a href="https://skillsprofile.skillbuilder.aws/user/danishi/"><img src="https://img.shields.io/badge/AWS_Skill_Builder-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Skill Builder"/></a>
+  <a href="https://g.dev/danishi"><img src="https://img.shields.io/badge/Google_Cloud_Innovators-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Innovators"/></a>
+  <a href="https://partner.skills.google/public_profiles/f4473802-cc01-4b05-a7f1-28d8c02aa83b"><img src="https://img.shields.io/badge/Google_Skills-34A853?style=flat-square&logo=google&logoColor=white" alt="Google Skills"/></a>
+  <a href="https://learn.microsoft.com/ja-jp/users/danishi/"><img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Learn"/></a>
+  <a href="https://findy-tools.io/products/vertexai/396/476"><img src="https://img.shields.io/badge/Findy_Tools-Reviewer-6C63FF?style=flat-square" alt="Findy Tools"/></a>
+  <a href="https://atmarkit.itmedia.co.jp/ait/articles/2511/26/news005.html"><img src="https://img.shields.io/badge/@IT-Article-E60012?style=flat-square" alt="@IT"/></a>
+</p>
 
 ---
 
 ## ✨ Extras
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
-<a href="https://www.amazon.co.jp/registry/wishlist/86VBU5ARU5E1"><img src="https://img.shields.io/badge/Amazon-My Whis List-orange" alt="My Whis List"/></a>
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-danishi-yellow)](https://huggingface.co/danishi411)
-[![user:23168530's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/23168530?theme=default)](https://stackoverflow.com/users/23168530/danishi)
-[![AtCoder Rating](https://badgen.org/img/atcoder/danishi/rating/algorithm?style=plastic)](https://atcoder.jp/users/danishi?contestType=algo)
-[![AtCoder Rating(Heuristic)](https://badgen.org/img/atcoder/danishi/rating/heuristic?style=plastic)](https://atcoder.jp/users/danishi?contestType=heuristic)
-[![LeetCode user danishi](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdanishi&logo=leetcode&logoColor=yellow)](https://leetcode.com/danishi/)
+<p>
+  <a href="https://www.buymeacoffee.com/danishi"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"/></a>
+  <a href="https://www.amazon.co.jp/registry/wishlist/86VBU5ARU5E1"><img src="https://img.shields.io/badge/Amazon-My_Wish_List-orange" alt="My Wish List"/></a>
+</p>
+<p>
+  <a href="https://huggingface.co/danishi411"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-danishi-yellow" alt="Hugging Face"/></a>
+  <a href="https://stackoverflow.com/users/23168530/danishi"><img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/23168530?theme=default" alt="Stack Overflow"/></a>
+</p>
+<p>
+  <a href="https://atcoder.jp/users/danishi?contestType=algo"><img src="https://badgen.org/img/atcoder/danishi/rating/algorithm?style=plastic" alt="AtCoder Rating"/></a>
+  <a href="https://atcoder.jp/users/danishi?contestType=heuristic"><img src="https://badgen.org/img/atcoder/danishi/rating/heuristic?style=plastic" alt="AtCoder Rating (Heuristic)"/></a>
+  <a href="https://leetcode.com/danishi/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdanishi&logo=leetcode&logoColor=yellow" alt="LeetCode"/></a>
+</p>
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/danishi" target="_blank" rel="noopener noreferrer"><img alt="danishi's scores on LAPRAS are as follows: Engineering: 3.7 out of 5.0, Business: 4.06 out of 5.0, Influence: 3.42 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.7&b=4.06&i=3.42&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="350" ></a></p>
 <!--END_SECTION:lapras-card-->
