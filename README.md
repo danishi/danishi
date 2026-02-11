@@ -150,6 +150,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 <!-- Databricks -->
 [<img height="110" width="110" src="https://github.com/user-attachments/assets/ad001610-67e4-471a-9419-5f8058ac41fa" alt="Databricks Certified Generative AI Engineer Associate"/>](https://credentials.databricks.com/78a82df2-9cfd-44cc-995a-4030acd59901#acc.ML275jEl)
 [<img height="110" width="110" src="https://github.com/user-attachments/assets/38e76448-bb19-4d18-986c-2dcc4004e9ab" alt="Databricks Certified Data Engineer Associate"/>](https://credentials.databricks.com/734d503a-aeb0-4314-b448-0b3301ad33b9#acc.KunfoP17)
+[<img height="110" width="110" src="https://github.com/user-attachments/assets/7abde5f4-f57c-46ef-9a4f-3dd0dc007830" alt="Databricks Certified Data Engineer Professional"/>](https://credentials.databricks.com/54c91ed7-09f3-45ad-b128-25f754ff43aa#acc.k5TDGSqj)
 [<img height="110" width="110" src="https://github.com/user-attachments/assets/59b01bac-a930-41b0-b2d8-d31c472e97d0" alt="Partner Training - Gen AI & LLM on Databricks"/>](https://credentials.databricks.com/242b3c21-f4ca-40c7-82a1-a7cf91b1e679#acc.jeFfRvsE)
 
 <!-- Others -->
