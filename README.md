@@ -138,7 +138,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/7bb9dc2d-53b4-412c-8bc7-8ea90556710d/image.png" alt="Professional Cloud Security Engineer"/>](https://www.credly.com/badges/c15fbc2d-9fd4-46f8-9d19-658e742f19f1/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/d7d0d0f5-ea0b-4b3f-a76f-93934726573d/image.png" alt="Professional Data Engineer"/>](https://www.credly.com/badges/bb89744b-8097-4cc9-8805-a9b121559053/public_url)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" alt="Professional Machine Learning Engineer"/>](https://www.credly.com/badges/9bb26cfa-2b11-4fa7-9182-cc103f20ae0b/public_url)
-[<img height="110" width="110" src="https://images.credly.com/size/110x110/images/08a802bf-f2fa-44fb-8110-92acf6195738/image.png" alt="Professional Cloud Network Engineer"/>](https://www.credly.com/badges/e89672b5-4380-40bd-9366-57b9d800b99c/public_url)
+[<img height="110" width="110" src="https://images.credly.com/size/110x110/images/08a802bf-f2fa-44fb-8110-92acf6195738/image.png" alt="Professional Cloud Network Engineer"/>](https://www.credly.com/badges/7a37f110-5382-4f71-9c3b-4014981bf4e6)
 [<img height="110" width="110" src="https://images.credly.com/size/110x110/images/8848cf4b-31e8-4bf8-b76f-f831f4db433b/image.png" alt="Professional Google Workspace Administrator"/>](https://www.credly.com/badges/a7bf85ea-fb18-4f85-8eed-680b4a00c2f0/public_url)
 
 <!-- Oracle -->
