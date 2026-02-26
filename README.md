@@ -65,7 +65,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ---
 
 ## 🛠 Skills
-[![My Skills](https://skills.syvixor.com/api/icons?i=amazonwebservices,apache,apple,axios,bash,bootstrap,c,claude,css,css3,databricks,debian,docker,eclipseide,fastapi,figma,firebase,git,gitbash,github,githubactions,githubcopilot,githubpages,googleadk,googlecloud,googlecolaboratory,geminicli,googlegemini,grpc,homebrew,html,java,javascript,jquery,json,jupyter,jwt,langchain,laravel,linux,lookerstudio,markdown,mqtt,msdos,mysql,ngrok,nodejs,npm,nuxtjs,php,oracle,postman,powershell,pydantic,pypi,pytest,python,raspberrypi,redoc,regex,rest,sass,serverless,slack,spark,sql,sqlite,streamlit,swagger,tailwindcss,typescript,ubuntu,vercel,vim,visualstudiocode,vuejs,vuetify,windows,wordpress,xampp,yaml,yarn)](https://builder.syvixor.com/)
+[![My Skills](https://skills.syvixor.com/api/icons?i=amazonwebservices,apache,apple,axios,bash,bootstrap,c,chatgpt,claudeai,css,css3,databricks,debian,docker,eclipseide,fastapi,figma,firebase,git,gitbash,github,githubactions,githubcopilot,githubpages,googleadk,googlecloud,googlecolaboratory,geminicli,googlegemini,grpc,homebrew,html,java,javascript,jquery,json,jupyter,jwt,langchain,laravel,linux,lookerstudio,markdown,mqtt,msdos,mysql,ngrok,nodejs,npm,nuxtjs,php,oracle,postman,powershell,pydantic,pypi,pytest,python,raspberrypi,redoc,regex,rest,sass,serverless,slack,spark,sql,sqlite,streamlit,swagger,tailwindcss,typescript,ubuntu,vercel,vim,visualstudiocode,vuejs,vuetify,windows,wordpress,xampp,yaml,yarn)](https://builder.syvixor.com/)
 
 ---
 
