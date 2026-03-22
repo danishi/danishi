@@ -29,7 +29,6 @@ Let's connect!
 ### 😃 Fun Fact
 * I love drinking with friends 🍻
 * I enjoy playing with my dog and my son 🐶🧒
-* 🌸 Spring is my favorite season — cherry blossoms in Japan are beautiful!
 
 ## 📊 GitHub Stats
 <div align="center">
