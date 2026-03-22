@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5,FFC0CB,FF69B4&height=120&section=header"/>
 
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm danishi</h1>
 
@@ -14,11 +14,12 @@
 <!-- About Me -->
 <h3 align="center">About Me</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=4DF71F&size=24&center=true&vCenter=true&width=435&lines=Passionate+about+coding;Always+learning+new+things;Open+Source+Contributor;Love+problem+solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF69B4&size=24&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B8+Spring+has+come!;Passionate+about+coding;Building+AI+Agents+%26+Cloud;Open+Source+Contributor;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
-I'm a Japanese engineer working in Japan 🗾.  
-I'm both a manager and involved in presales, always excited to help clients find the best solutions while leading my team to success.  
+I'm a Japanese engineer working in Japan 🗾.
+As an Engineering Manager and Presales at iret, Inc., I help clients find the best cloud solutions while leading my team to success.
+Currently passionate about **AI Agent development** with Google ADK and building serverless GenAI applications on AWS & Google Cloud.
 Let's connect!
 
 ### 🌟 Future Goals
@@ -28,6 +29,7 @@ Let's connect!
 ### 😃 Fun Fact
 * I love drinking with friends 🍻
 * I enjoy playing with my dog and my son 🐶🧒
+* 🌸 Spring is my favorite season — cherry blossoms in Japan are beautiful!
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -203,4 +205,4 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 <p ><a href="https://lapras.com/public/danishi" target="_blank" rel="noopener noreferrer"><img alt="danishi's scores on LAPRAS are as follows: Engineering: 3.71 out of 5.0, Business: 4.06 out of 5.0, Influence: 3.43 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.71&b=4.06&i=3.43&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="350" ></a></p>
 <!--END_SECTION:lapras-card-->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5,FFC0CB,FF69B4&height=120&section=footer"/>
