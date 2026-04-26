@@ -14,7 +14,7 @@
 <!-- About Me -->
 <h3 align="center">About Me</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF69B4&size=24&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B8+Spring+has+come!;Passionate+about+coding;Building+AI+Agents+%26+Cloud;Open+Source+Contributor;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=9400d3&size=24&center=true&vCenter=true&width=435&lines=Passionate+about+coding;Building+AI+Agents+%26+Cloud;Open+Source+Contributor;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 I'm a Japanese engineer working in Japan 🗾.
