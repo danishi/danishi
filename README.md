@@ -160,6 +160,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
     <td><a href="https://www.credly.com/badges/9bb26cfa-2b11-4fa7-9182-cc103f20ae0b/public_url"><img height="110" width="110" src="https://images.credly.com/size/110x110/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" alt="Professional Machine Learning Engineer"/></a></td>
   </tr>
   <tr>
+    <td><a href="https://www.credly.com/badges/fe56ef31-48bd-48a0-ac3d-02c9acfab253/public_url"><img height="110" width="110" src="https://images.credly.com/size/110x110/images/1797093e-3b56-4c4e-833c-8d9498ed2601/blob" alt="Professional Security Operations Engineer"/></a></td>
     <td><a href="https://www.credly.com/badges/7a37f110-5382-4f71-9c3b-4014981bf4e6"><img height="110" width="110" src="https://images.credly.com/size/110x110/images/08a802bf-f2fa-44fb-8110-92acf6195738/image.png" alt="Professional Cloud Network Engineer"/></a></td>
     <td><a href="https://www.credly.com/badges/a7bf85ea-fb18-4f85-8eed-680b4a00c2f0/public_url"><img height="110" width="110" src="https://images.credly.com/size/110x110/images/8848cf4b-31e8-4bf8-b76f-f831f4db433b/image.png" alt="Professional Google Workspace Administrator"/></a></td>
   </tr>
