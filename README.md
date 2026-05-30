@@ -30,15 +30,6 @@ Let's connect!
 * I love drinking with friends 🍻
 * I enjoy playing with my dog and my son 🐶🧒
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishi&hide=html" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=danishi&show_icons=true&count_private=true&line_height=40" alt="GitHub Stats"/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=danishi" alt="Trophies"/>
-  </a>
-</div>
-
 ## 💖 Support
 Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you can [buy me a coffee](https://www.buymeacoffee.com/danishi) ☕.
 
