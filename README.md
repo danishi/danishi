@@ -218,6 +218,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ## 🤝 Contributions & Collaborations
 <p>
   <a href="https://iret.media/author/nishida"><img src="https://img.shields.io/badge/iret.media-Author-00B2A9?style=flat-square" alt="iret.media"/></a>
+  <a href="https://www.gaipack.ai/blog/author/Shunji%20Nishida"><img src="https://img.shields.io/badge/gaipack_Blog-Author-0E3F99?style=flat-square" alt="gaipack Blog"/></a>
   <a href="https://builder.aws.com/community/@danishi"><img src="https://img.shields.io/badge/Community.aws-Builder-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Community.aws"/></a>
   <a href="https://skillsprofile.skillbuilder.aws/user/danishi/"><img src="https://img.shields.io/badge/AWS_Skill_Builder-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Skill Builder"/></a>
   <a href="https://g.dev/danishi"><img src="https://img.shields.io/badge/Google_Cloud_Innovators-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Innovators"/></a>
