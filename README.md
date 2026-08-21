@@ -46,9 +46,11 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ## 🎤 Talks & Workshops
 | Date | Event | Link |
 |:-----|:------|:----:|
+| 2026/08/04 | Session at AX Day 2026 August | [🔗 Details](https://event.shoeisha.jp/axday/20260804/session/6921) |
+| 2026/07/31 | Lightning talk at Google Cloud Next Tokyo '26 | [📊 Slides](https://speakerdeck.com/danishi/xian-chang-deshi-eru-agent-development-kit-adk-to-slack-bot-deshe-nei-tasukuwoezientohua) |
 | 2025/11/14 | Google Cloud Dual-Blade Engineering Course – Part 3 | [▶️ Watch](https://www.youtube.com/watch?v=koPVl_gADyw) |
 | 2025/10/31 | Google Cloud AI Agent Summit '25 Fall | [▶️ Watch](https://www.youtube.com/watch?v=hSblZdTSUFw) |
-| 2025/08/06 | Lightning talk at Google Cloud Next Tokyo '25 | [🔗 Details](https://cloudpack.jp/event/google-cloud-next-tokyo-2025.html) |
+| 2025/08/06 | Lightning talk at Google Cloud Next Tokyo '25 | [📊 Slides](https://speakerdeck.com/danishi/agent-development-kitdeshi-merusheng-cheng-ai-ezientoshi-jian-kai-fa) |
 | 2025/07/02 | Google Cloud AI Agent themed lightning talk | [▶️ Watch](https://www.youtube.com/watch?v=BCaj7YlwrLU) |
 | 2024/11/18 | Google Cloud GenAI Seminar | [▶️ Watch](https://www.youtube.com/watch?v=dtlONkFrI5Y) |
 | 2024/10/24 | Session at Generative AI Summit Tokyo '24 Fall | [▶️ Watch](https://www.youtube.com/watch?v=6YY87UwWkt8) |
