@@ -99,6 +99,8 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 <!-- AWS -->
 <table>
   <tr>
+    <td><a href="https://www.credly.com/badges/7f2a6efc-d751-4da7-bad9-0573ef6aefd3"><img height="110" width="110" src="https://images.credly.com/size/340x340/images/ed8c832e-b100-4ab8-8864-2fddb2e87b04/blob" alt="AWS Certified AI Business Strategist"/></a></td>
+    <td><a href="https://www.credly.com/badges/1ca4ae56-a439-4dbb-a41d-b19ceb26a5cd"><img height="110" width="110" src="https://images.credly.com/size/340x340/images/b7716dcd-7fd1-4cb2-bcc8-23685f1bcdd8/blob" alt="AWS Certified AI Business Strategist Early Adopter"/></a></td>
     <td><a href="https://www.credly.com/badges/4414b441-fc3e-4f1c-a02d-5c9e9811a433/public_url"><img height="110" width="110" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner"/></a></td>
     <td><a href="https://www.credly.com/badges/7fe9e2be-38ef-4dfc-abb3-752684049314/public_url"><img height="110" width="110" src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner"/></a></td>
     <td><a href="https://www.credly.com/badges/cb784249-be7b-48d3-8c78-baae72d669b9/public_url"><img height="110" width="110" src="https://images.credly.com/size/110x110/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="AWS Certified AI Practitioner Early Adopter"/></a></td>
