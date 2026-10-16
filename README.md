@@ -96,13 +96,6 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 <details>
 <summary><h3>🎖 Badges & Certificates 👈 Click here❗</h3></summary>
 
-<!-- Anthropic -->
-<table>
-  <tr>
-    <td><a href="https://www.credly.com/badges/c665b418-32fc-4479-af8e-4d20e5f5783a"><img height="110" width="110" src="https://images.credly.com/images/a6387cbd-5ac1-4894-833a-da2cbc28587e/blob" alt="Claude Certified Associate - Foundations"/></a></td>
-  </tr>
-</table>
-
 <!-- AWS -->
 <table>
   <tr>
@@ -187,6 +180,13 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
     <td><a href="https://credentials.databricks.com/734d503a-aeb0-4314-b448-0b3301ad33b9#acc.KunfoP17"><img height="110" width="110" src="https://github.com/user-attachments/assets/38e76448-bb19-4d18-986c-2dcc4004e9ab" alt="Databricks Certified Data Engineer Associate"/></a></td>
     <td><a href="https://credentials.databricks.com/54c91ed7-09f3-45ad-b128-25f754ff43aa#acc.k5TDGSqj"><img height="110" width="110" src="https://github.com/user-attachments/assets/7abde5f4-f57c-46ef-9a4f-3dd0dc007830" alt="Databricks Certified Data Engineer Professional"/></a></td>
     <td><a href="https://credentials.databricks.com/242b3c21-f4ca-40c7-82a1-a7cf91b1e679#acc.jeFfRvsE"><img height="110" width="110" src="https://github.com/user-attachments/assets/59b01bac-a930-41b0-b2d8-d31c472e97d0" alt="Partner Training - Gen AI & LLM on Databricks"/></a></td>
+  </tr>
+</table>
+
+<!-- Anthropic -->
+<table>
+  <tr>
+    <td><a href="https://www.credly.com/badges/c665b418-32fc-4479-af8e-4d20e5f5783a"><img height="110" width="110" src="https://images.credly.com/images/a6387cbd-5ac1-4894-833a-da2cbc28587e/blob" alt="Claude Certified Associate - Foundations"/></a></td>
   </tr>
 </table>
 
