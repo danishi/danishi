@@ -96,6 +96,13 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 <details>
 <summary><h3>🎖 Badges & Certificates 👈 Click here❗</h3></summary>
 
+<!-- Anthropic -->
+<table>
+  <tr>
+    <td><a href="https://www.credly.com/badges/c665b418-32fc-4479-af8e-4d20e5f5783a"><img height="110" width="110" src="https://images.credly.com/images/a6387cbd-5ac1-4894-833a-da2cbc28587e/blob" alt="Claude Certified Associate - Foundations"/></a></td>
+  </tr>
+</table>
+
 <!-- AWS -->
 <table>
   <tr>
