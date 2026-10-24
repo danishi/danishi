@@ -214,7 +214,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
   </tr>
   <tr>
     <td><a href="https://cloud.google.com/blog/ja/topics/partners/announcing-the-winners-of-the-google-cloud-partner-top-engineer-2026-award-program"><img height="120" src="https://github.com/user-attachments/assets/41b82b38-5ab9-4a58-81b7-7dc8e99b7bb4" alt="Google Cloud Partner Top Engineer 2026"/></a></td>
-    <td><a href="https://partners.cloud.google.com/google-cloud-ambassadors"><img height="120" src="https://github.com/user-attachments/assets/d5ef3b31-1feb-4562-b1df-74ce4784b303" alt="Google Cloud Ambassador"/></a></td>
+    <td><a href="https://www.credly.com/badges/e2555f98-01c5-4853-aabd-9cd2575d7119"><img height="120" src="https://github.com/user-attachments/assets/d5ef3b31-1feb-4562-b1df-74ce4784b303" alt="Google Cloud Ambassador"/></a></td>
   </tr>
 </table>
 
