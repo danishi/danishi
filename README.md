@@ -187,6 +187,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 <table>
   <tr>
     <td><a href="https://www.credly.com/badges/c665b418-32fc-4479-af8e-4d20e5f5783a"><img height="110" width="110" src="https://images.credly.com/images/a6387cbd-5ac1-4894-833a-da2cbc28587e/blob" alt="Claude Certified Associate - Foundations"/></a></td>
+    <td><a href="https://www.credly.com/badges/b817bc0d-988c-49e4-aedc-466ee4a226a1"><img height="110" width="110" src="https://images.credly.com/images/f101c6ac-8a2d-4220-b381-70e3e6c364e3/blob" alt="Claude Certified Developer - Foundations"/></a></td>
     <td><a href="https://www.credly.com/badges/234904e1-5285-4308-897f-60bdccd0ea32"><img height="110" width="110" src="https://images.credly.com/images/7583afbc-4aab-4c7d-8af4-d9af72786ab3/blob" alt="Claude Certified Architect - Professional"/></a></td>
   </tr>
 </table>
