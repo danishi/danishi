@@ -46,6 +46,8 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ## 🎤 Talks & Workshops
 | Date | Event | Link |
 |:-----|:------|:----:|
+| 2026/12/16 | Session at Generative AI Conference 2026            | [🔗 Details](https://events.nikkeibp.co.jp/event/2026/nbgac261216/) |
+| 2026/11/27 | Session at Data + AI World Tour Tokyo 2026          | [🔗 Details](https://cloudpack.jp/event/data-ai-world-tour-tokyo-26/) |
 | 2026/08/04 | Session at AX Day 2026 August | [🔗 Details](https://event.shoeisha.jp/axday/20260804/session/6921) |
 | 2026/07/31 | Lightning talk at Google Cloud Next Tokyo '26 | [📊 Slides](https://speakerdeck.com/danishi/xian-chang-deshi-eru-agent-development-kit-adk-to-slack-bot-deshe-nei-tasukuwoezientohua) |
 | 2025/11/14 | Google Cloud Dual-Blade Engineering Course – Part 3 | [▶️ Watch](https://www.youtube.com/watch?v=koPVl_gADyw) |
