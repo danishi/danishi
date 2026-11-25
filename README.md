@@ -80,6 +80,7 @@ Looking for [GitHub sponsors](https://github.com/sponsors/danishi) 💖 or you c
 ---
 
 ## 🏆 Awards & Recognition
+* [Google Cloud Partner Top Engineer 2027](https://cloud.google.com/blog/ja/topics/partners/announcing-the-winners-of-the-google-cloud-partner-top-engineer-2027-award-program)
 * [2026 Japan All AWS Certifications Engineers](https://aws.amazon.com/jp/blogs/psa/2026-japan-all-aws-certifications-engineers/)
 * KDDI iret UNITE DAY 2026 - iret Top Engineer Lead of the Year
 * [Google Cloud Ambassador](https://partners.cloud.google.com/google-cloud-ambassadors)
